@@ -8,86 +8,178 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: kalshi-earnings-tracker
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Get Kalshi markets
+      - name: Collect all earnings mention markets
         run: |
           python - <<'PY'
-          import json, urllib.request, urllib.parse
-          import datetime, pathlib, time
+          import json
+          import pathlib
+          import time
+          import urllib.request
+          import urllib.parse
+          import datetime
 
-          base = "https://external-api.kalshi.com/trade-api/v2/markets"
-          markets = []
-          cursor = ""
+          BASE = "https://external-api.kalshi.com/trade-api/v2"
+          PREFIX = "KXEARNINGSMENTION"
 
-          while True:
-              params = {
-                  "series_ticker": "KXEARNINGSMENTIONSTZ",
-                  "status": "open",
-                  "limit": 1000
-              }
-              if cursor:
-                  params["cursor"] = cursor
-              url = base + "?" + urllib.parse.urlencode(params)
-              for attempt in range(4):
+          def api(path, params=None):
+              url = BASE + path
+              if params:
+                  url += "?" + urllib.parse.urlencode(params)
+
+              for attempt in range(5):
                   try:
-                      req = urllib.request.Request(
-                          url, headers={"User-Agent": "kalshi-earnings-tracker/1.0"}
+                      request = urllib.request.Request(
+                          url,
+                          headers={
+                              "User-Agent": "KalshiEarningsTracker/1.0",
+                              "Accept": "application/json"
+                          }
                       )
-                      with urllib.request.urlopen(req, timeout=40) as r:
-                          data = json.load(r)
-                      break
-                  except Exception:
-                      if attempt == 3:
+                      with urllib.request.urlopen(
+                          request, timeout=45
+                      ) as response:
+                          return json.load(response)
+                  except Exception as error:
+                      if attempt == 4:
                           raise
+                      print("Retrying:", str(error))
                       time.sleep(2 ** attempt)
 
-              markets.extend(data.get("markets", []))
-              cursor = data.get("cursor")
-              if not cursor:
-                  break
+          # Discover earnings-mention series.
+          series_data = api("/series", {"category": "Mentions"})
+
+          series = sorted({
+              s["ticker"]
+              for s in series_data.get("series", [])
+              if s.get("ticker", "").startswith(PREFIX)
+          })
+
+          print("Earnings series found:", len(series))
+
+          if not series:
+              raise RuntimeError(
+                  "No earnings series found. Check API discovery."
+              )
+
+          # Retrieve open markets for every series.
+          markets_by_ticker = {}
+
+          for series_ticker in series:
+              cursor = ""
+              while True:
+                  params = {
+                      "series_ticker": series_ticker,
+                      "status": "open",
+                      "limit": 1000
+                  }
+                  if cursor:
+                      params["cursor"] = cursor
+
+                  data = api("/markets", params)
+
+                  for market in data.get("markets", []):
+                      ticker = market.get("ticker", "")
+                      if ticker.startswith(PREFIX):
+                          markets_by_ticker[ticker] = market
+
+                  cursor = data.get("cursor") or ""
+                  if not cursor:
+                      break
+
+              time.sleep(0.12)
+
+          markets = list(markets_by_ticker.values())
 
           if not markets:
-              raise RuntimeError("No markets returned")
+              raise RuntimeError(
+                  "No open earnings markets found; "
+                  "previous snapshot preserved."
+              )
 
           fields = [
-              "ticker", "event_ticker", "title", "status",
-              "yes_bid_dollars", "yes_ask_dollars",
-              "no_bid_dollars", "no_ask_dollars",
-              "yes_bid_size_fp", "yes_ask_size_fp",
-              "close_time", "rules_primary"
+              "ticker",
+              "event_ticker",
+              "title",
+              "subtitle",
+              "status",
+              "yes_bid_dollars",
+              "yes_ask_dollars",
+              "no_bid_dollars",
+              "no_ask_dollars",
+              "yes_bid_size_fp",
+              "yes_ask_size_fp",
+              "last_price_dollars",
+              "volume_fp",
+              "open_interest_fp",
+              "close_time",
+              "rules_primary"
           ]
+
+          records = [
+              {key: market.get(key) for key in fields}
+              for market in markets
+          ]
+
+          records.sort(key=lambda m: m["ticker"])
+
+          events = sorted({
+              m["event_ticker"] for m in records
+              if m.get("event_ticker")
+          })
+
           output = {
               "updated": datetime.datetime.now(
                   datetime.timezone.utc
               ).isoformat(),
-              "count": len(markets),
-              "markets": [
-                  {k: m.get(k) for k in fields}
-                  for m in markets
-              ]
+              "series_count": len(series),
+              "event_count": len(events),
+              "count": len(records),
+              "markets": records
           }
 
-          pathlib.Path("data").mkdir(exist_ok=True)
-          pathlib.Path("data/latest.json").write_text(
-              json.dumps(output, indent=2)
+          folder = pathlib.Path("data")
+          folder.mkdir(exist_ok=True)
+
+          destination = folder / "latest.json"
+          temp = folder / "latest.tmp"
+          temp.write_text(
+              json.dumps(output, indent=2),
+              encoding="utf-8"
           )
-          print("Collected", len(markets), "markets")
+          temp.replace(destination)
+
+          print("Series:", len(series))
+          print("Events:", len(events))
+          print("Markets:", len(records))
+          print("Saved data/latest.json")
           PY
 
-      - name: Save results
+      - name: Save results to GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/latest.json
+
           if ! git diff --cached --quiet; then
-            git commit -m "Update Kalshi market snapshot"
+            git commit -m "Refresh Kalshi earnings markets"
             git push
+          else
+            echo "No changes to commit"
           fi
