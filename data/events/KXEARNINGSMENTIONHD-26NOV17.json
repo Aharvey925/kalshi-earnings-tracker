@@ -99,9 +99,9 @@
       "no_bid_dollars": "0.3500",
       "no_ask_dollars": "0.4300",
       "yes_bid_size_fp": "102.00",
-      "yes_ask_size_fp": "23.00",
+      "yes_ask_size_fp": "24.00",
       "last_price_dollars": "0.6600",
-      "volume_fp": "267.68",
+      "volume_fp": "297.60",
       "close_time": "2027-02-15T14:00:00Z",
       "rules_primary": "If Lumber is said by any Home Depot representative (including the operator of the call) during the next Home Depot live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
