@@ -13,7 +13,7 @@
       "yes_ask_dollars": "0.8700",
       "no_bid_dollars": "0.1300",
       "no_ask_dollars": "0.2100",
-      "yes_bid_size_fp": "103.11",
+      "yes_bid_size_fp": "101.11",
       "yes_ask_size_fp": "100.00",
       "last_price_dollars": "0.8700",
       "volume_fp": "1583.68",
@@ -81,10 +81,10 @@
       "yes_ask_dollars": "0.8300",
       "no_bid_dollars": "0.1700",
       "no_ask_dollars": "0.2400",
-      "yes_bid_size_fp": "18.20",
+      "yes_bid_size_fp": "17.20",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.8200",
-      "volume_fp": "9395.21",
+      "last_price_dollars": "0.7600",
+      "volume_fp": "9396.21",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If GLP-1 is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     },
@@ -185,8 +185,8 @@
       "no_ask_dollars": "0.6600",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "24.00",
-      "last_price_dollars": "0.4200",
-      "volume_fp": "470.95",
+      "last_price_dollars": "0.3400",
+      "volume_fp": "474.46",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Tariff is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     }
