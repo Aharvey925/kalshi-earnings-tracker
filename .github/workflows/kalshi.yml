@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Collect all earnings mention markets
+      - name: Collect earnings mention markets
         run: |
           python - <<'PY'
           import json
@@ -33,6 +33,7 @@ jobs:
           import urllib.request
           import urllib.parse
           import datetime
+          import shutil
 
           BASE = "https://external-api.kalshi.com/trade-api/v2"
           PREFIX = "KXEARNINGSMENTION"
@@ -58,11 +59,19 @@ jobs:
                   except Exception as error:
                       if attempt == 4:
                           raise
-                      print("Retrying:", str(error))
+                      print("Retrying:", error)
                       time.sleep(2 ** attempt)
 
-          # Discover earnings-mention series.
-          series_data = api("/series", {"category": "Mentions"})
+          def save(path, data):
+              path.parent.mkdir(parents=True, exist_ok=True)
+              path.write_text(
+                  json.dumps(data, indent=2) + "\n",
+                  encoding="utf-8"
+              )
+
+          series_data = api(
+              "/series", {"category": "Mentions"}
+          )
 
           series = sorted({
               s["ticker"]
@@ -73,11 +82,8 @@ jobs:
           print("Earnings series found:", len(series))
 
           if not series:
-              raise RuntimeError(
-                  "No earnings series found. Check API discovery."
-              )
+              raise RuntimeError("No earnings series found")
 
-          # Retrieve open markets for every series.
           markets_by_ticker = {}
 
           for series_ticker in series:
@@ -108,8 +114,7 @@ jobs:
 
           if not markets:
               raise RuntimeError(
-                  "No open earnings markets found; "
-                  "previous snapshot preserved."
+                  "No markets returned; preserving old data"
               )
 
           fields = [
@@ -126,48 +131,78 @@ jobs:
               "yes_ask_size_fp",
               "last_price_dollars",
               "volume_fp",
-              "open_interest_fp",
               "close_time",
               "rules_primary"
           ]
 
-          records = [
-              {key: market.get(key) for key in fields}
-              for market in markets
-          ]
+          records = sorted(
+              [
+                  {k: m.get(k) for k in fields}
+                  for m in markets
+              ],
+              key=lambda m: m["ticker"]
+          )
 
-          records.sort(key=lambda m: m["ticker"])
+          now = datetime.datetime.now(
+              datetime.timezone.utc
+          ).isoformat()
 
-          events = sorted({
-              m["event_ticker"] for m in records
-              if m.get("event_ticker")
-          })
-
-          output = {
-              "updated": datetime.datetime.now(
-                  datetime.timezone.utc
-              ).isoformat(),
+          # Retain the complete dataset.
+          save(pathlib.Path("data/latest.json"), {
+              "updated": now,
               "series_count": len(series),
-              "event_count": len(events),
               "count": len(records),
               "markets": records
-          }
+          })
 
-          folder = pathlib.Path("data")
-          folder.mkdir(exist_ok=True)
+          # Group markets by earnings event.
+          grouped = {}
 
-          destination = folder / "latest.json"
-          temp = folder / "latest.tmp"
-          temp.write_text(
-              json.dumps(output, indent=2),
-              encoding="utf-8"
-          )
-          temp.replace(destination)
+          for m in records:
+              event = m.get("event_ticker")
+              if event:
+                  grouped.setdefault(event, []).append(m)
+
+          events_dir = pathlib.Path("data/events")
+
+          # Remove files for events no longer active.
+          if events_dir.exists():
+              shutil.rmtree(events_dir)
+
+          events_dir.mkdir(parents=True)
+
+          index = []
+
+          for event, items in sorted(grouped.items()):
+              # Individual event files are small enough
+              # for ChatGPT to retrieve independently.
+              save(events_dir / (event + ".json"), {
+                  "event_ticker": event,
+                  "company": items[0].get("title"),
+                  "market_count": len(items),
+                  "markets": items
+              })
+
+              index.append({
+                  "event_ticker": event,
+                  "company": items[0].get("title"),
+                  "market_count": len(items),
+                  "file": "data/events/" + event + ".json"
+              })
+
+          # Compact index for finding companies.
+          save(pathlib.Path("data/index.json"), {
+              "updated": now,
+              "series_count": len(series),
+              "event_count": len(index),
+              "market_count": len(records),
+              "events": index
+          })
 
           print("Series:", len(series))
-          print("Events:", len(events))
+          print("Events:", len(index))
           print("Markets:", len(records))
-          print("Saved data/latest.json")
+          print("Saved full dataset and event files")
           PY
 
       - name: Save results to GitHub
@@ -175,10 +210,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/latest.json
+          git add data/
 
           if ! git diff --cached --quiet; then
-            git commit -m "Refresh Kalshi earnings markets"
+            git commit -m "Refresh Kalshi market data"
             git push
           else
             echo "No changes to commit"
