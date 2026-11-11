@@ -82,9 +82,9 @@
       "no_bid_dollars": "0.2900",
       "no_ask_dollars": "0.3900",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "108.00",
-      "last_price_dollars": "0.6100",
-      "volume_fp": "4.00",
+      "yes_ask_size_fp": "106.62",
+      "last_price_dollars": "0.7100",
+      "volume_fp": "5.38",
       "close_time": "2027-04-19T21:45:00Z",
       "rules_primary": "If Headcount is said by any Netflix, Inc. representative (including the operator of the call) during the next Netflix, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

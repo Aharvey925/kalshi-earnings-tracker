@@ -14,9 +14,9 @@
       "no_bid_dollars": "0.9900",
       "no_ask_dollars": "1.0000",
       "yes_bid_size_fp": "0.00",
-      "yes_ask_size_fp": "21134.53",
+      "yes_ask_size_fp": "21036.53",
       "last_price_dollars": "0.0100",
-      "volume_fp": "1667.23",
+      "volume_fp": "1765.23",
       "close_time": "2027-02-07T22:00:00Z",
       "rules_primary": "If Anthropic is said by any CoreWeave, Inc. representative (including the operator of the call) during the next CoreWeave, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
@@ -133,9 +133,9 @@
       "no_bid_dollars": "0.9900",
       "no_ask_dollars": "1.0000",
       "yes_bid_size_fp": "0.00",
-      "yes_ask_size_fp": "19281.13",
+      "yes_ask_size_fp": "19196.28",
       "last_price_dollars": "0.0100",
-      "volume_fp": "1177.81",
+      "volume_fp": "1262.66",
       "close_time": "2027-02-07T22:00:00Z",
       "rules_primary": "If Meta is said by any CoreWeave, Inc. representative (including the operator of the call) during the next CoreWeave, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

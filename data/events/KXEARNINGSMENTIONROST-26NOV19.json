@@ -217,10 +217,10 @@
       "yes_ask_dollars": "0.3500",
       "no_bid_dollars": "0.6500",
       "no_ask_dollars": "0.6800",
-      "yes_bid_size_fp": "200.00",
+      "yes_bid_size_fp": "155.00",
       "yes_ask_size_fp": "75.00",
-      "last_price_dollars": "0.3400",
-      "volume_fp": "201.00",
+      "last_price_dollars": "0.3200",
+      "volume_fp": "246.00",
       "close_time": "2027-02-17T21:15:00Z",
       "rules_primary": "If Texas is said by any Ross Stores, Inc. representative (including the operator of the call) during the next Ross Stores, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }

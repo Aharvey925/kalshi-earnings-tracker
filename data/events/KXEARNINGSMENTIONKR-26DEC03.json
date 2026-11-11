@@ -116,9 +116,9 @@
       "no_bid_dollars": "0.4100",
       "no_ask_dollars": "0.4700",
       "yes_bid_size_fp": "43.00",
-      "yes_ask_size_fp": "20.41",
+      "yes_ask_size_fp": "17.12",
       "last_price_dollars": "0.5900",
-      "volume_fp": "7952.53",
+      "volume_fp": "7955.82",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Inflation Reduction Act / IRA is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     },
@@ -184,9 +184,9 @@
       "no_bid_dollars": "0.5800",
       "no_ask_dollars": "0.6600",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "21.72",
+      "yes_ask_size_fp": "10.72",
       "last_price_dollars": "0.4200",
-      "volume_fp": "476.74",
+      "volume_fp": "487.74",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Tariff is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     }

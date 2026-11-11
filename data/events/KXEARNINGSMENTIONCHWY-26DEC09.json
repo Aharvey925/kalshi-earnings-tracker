@@ -30,10 +30,10 @@
       "yes_ask_dollars": "0.9000",
       "no_bid_dollars": "0.1000",
       "no_ask_dollars": "0.1900",
-      "yes_bid_size_fp": "10.00",
+      "yes_bid_size_fp": "11.00",
       "yes_ask_size_fp": "100.00",
       "last_price_dollars": "0.8100",
-      "volume_fp": "267.37",
+      "volume_fp": "268.37",
       "close_time": "2027-03-23T15:00:00Z",
       "rules_primary": "If Chewy+ / Chewy Plus is said by any Chewy representative (including the operator of the call) during the next Chewy live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
