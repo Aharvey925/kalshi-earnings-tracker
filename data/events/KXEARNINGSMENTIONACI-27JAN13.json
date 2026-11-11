@@ -31,9 +31,9 @@
       "no_bid_dollars": "0.3500",
       "no_ask_dollars": "0.4400",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "27.00",
-      "last_price_dollars": "0.5600",
-      "volume_fp": "174.49",
+      "yes_ask_size_fp": "22.50",
+      "last_price_dollars": "0.6500",
+      "volume_fp": "178.99",
       "close_time": "2027-04-13T15:00:00Z",
       "rules_primary": "If Delivery is said by any Albertsons representative (including the operator of the call) during the next Albertsons live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
