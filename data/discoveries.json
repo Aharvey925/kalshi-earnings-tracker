@@ -107,7 +107,10 @@
     "KXEARNINGSMENTIONHIMS-27FEB22": "2026-11-11T14:59:37.256015+00:00",
     "KXEARNINGSMENTIONPSKY-27FEB24": "2026-11-11T14:59:37.256015+00:00",
     "KXEARNINGSMENTIONTTWO-27FEB04": "2026-11-11T14:59:37.256015+00:00",
-    "KXEARNINGSMENTIONZETA-27FEB23": "2026-11-11T14:59:37.256015+00:00"
+    "KXEARNINGSMENTIONZETA-27FEB23": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25": "2026-11-11T15:53:53.093203+00:00"
   },
   "seen_markets": {
     "KXEARNINGSMENTIONAAL-27JAN28-AT": "baseline",
@@ -1597,7 +1600,47 @@
     "KXEARNINGSMENTIONZETA-27FEB23-OPEN": "2026-11-11T14:59:37.256015+00:00",
     "KXEARNINGSMENTIONZETA-27FEB23-PALA": "2026-11-11T14:59:37.256015+00:00",
     "KXEARNINGSMENTIONZETA-27FEB23-SENS": "2026-11-11T14:59:37.256015+00:00",
-    "KXEARNINGSMENTIONZETA-27FEB23-SNOW": "2026-11-11T14:59:37.256015+00:00"
+    "KXEARNINGSMENTIONZETA-27FEB23-SNOW": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-ATT": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-BLAC": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-BLUE": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-FCC": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-FIRE": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-GOLD": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-JLEO": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-NEW": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-SPAC": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-SPEC": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-UNMO": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-VERI": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONASTS-27MAR01-VODA": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-AMP2": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-ARIZ": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-AUTO": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-BOLT": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-BYD": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-CI": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-COSM": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-DREA": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-GRAV": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-INTE": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-PIF": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-SUPP": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONLUCID-27FEB23-TESL": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-ARCH": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-CRYO": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-FLAT": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-GOLD": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-HUMA": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-IRID": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-LUNA": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-MARS": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-MOME": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-NASA": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-REUS": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-SPAC": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-TARI": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONRKLB-27FEB25-VIRG": "2026-11-11T15:53:53.093203+00:00"
   },
   "new_events": [
     {
@@ -1623,6 +1666,24 @@
       "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
       "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
       "contract_count": 13
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "contract_count": 13
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "contract_count": 13
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "contract_count": 14
     }
   ],
   "new_markets": [
@@ -2024,6 +2085,286 @@
       "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
       "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
       "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-ATT",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-BLAC",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-BLUE",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-FCC",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-FIRE",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-GOLD",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-JLEO",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-NEW",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-SPAC",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-SPEC",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-UNMO",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-VERI",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONASTS-27MAR01-VODA",
+      "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
+      "company": "What will AST SpaceMobile, Inc. say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-AMP2",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-ARIZ",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-AUTO",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-BOLT",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-BYD",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-CI",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-COSM",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-DREA",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-GRAV",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-INTE",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-PIF",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-SUPP",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONLUCID-27FEB23-TESL",
+      "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
+      "company": "What will Lucid say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-ARCH",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-CRYO",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-FLAT",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-GOLD",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-HUMA",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-IRID",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-LUNA",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-MARS",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-MOME",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-NASA",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-REUS",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-SPAC",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-TARI",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T15:53:53.093203+00:00",
+      "ticker": "KXEARNINGSMENTIONRKLB-27FEB25-VIRG",
+      "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
+      "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
     }
   ]
 }
