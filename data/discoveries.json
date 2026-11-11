@@ -103,7 +103,11 @@
     "KXEARNINGSMENTIONYETI-26NOV12": "baseline",
     "KXEARNINGSMENTIONYOU-27FEB24": "baseline",
     "KXEARNINGSMENTIONZM-26NOV23": "baseline",
-    "KXEARNINGSMENTIONZS-26NOV24": "baseline"
+    "KXEARNINGSMENTIONZS-26NOV24": "baseline",
+    "KXEARNINGSMENTIONHIMS-27FEB22": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23": "2026-11-11T14:59:37.256015+00:00"
   },
   "seen_markets": {
     "KXEARNINGSMENTIONAAL-27JAN28-AT": "baseline",
@@ -1536,8 +1540,490 @@
     "KXEARNINGSMENTIONZS-26NOV24-PUBL": "baseline",
     "KXEARNINGSMENTIONZS-26NOV24-SQUA": "baseline",
     "KXEARNINGSMENTIONZS-26NOV24-TAIL": "baseline",
-    "KXEARNINGSMENTIONZS-26NOV24-WIZ": "baseline"
+    "KXEARNINGSMENTIONZS-26NOV24-WIZ": "baseline",
+    "KXEARNINGSMENTIONHIMS-27FEB22-AUST": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-CAGR": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-CANA": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-CANC": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-COLL": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-EUCA": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-EURO": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-FDA": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-FOUN": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-LABT": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-LONG": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-MICR": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-PEPT": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-PERI": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-REGU": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-TEST": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-WEAR": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-WEGO": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONHIMS-27FEB22-ZAVA": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-ANTI": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-BUND": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-CNN": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-DCST": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-HBO": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-INVE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-LAYO": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-NETF": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-PLUT": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-REGU": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-SUBS": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-SYNE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONPSKY-27FEB24-UFC": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-BORD": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-COLL": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-GTA": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-MAFI": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-MYTE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-NOPI": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-PLAY": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-PRE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-RED": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-SWIT": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-VICE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONTTWO-27FEB04-ZYNG": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-AGEN": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-AIIN": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-CONN": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-ENTE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-FIRE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-FOUN": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-INFE": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-LOYA": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-NEMO": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-OPEN": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-PALA": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-SENS": "2026-11-11T14:59:37.256015+00:00",
+    "KXEARNINGSMENTIONZETA-27FEB23-SNOW": "2026-11-11T14:59:37.256015+00:00"
   },
-  "new_events": [],
-  "new_markets": []
+  "new_events": [
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "contract_count": 19
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "contract_count": 13
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "contract_count": 12
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "contract_count": 13
+    }
+  ],
+  "new_markets": [
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-AUST",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-CAGR",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-CANA",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-CANC",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-COLL",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-EUCA",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-EURO",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-FDA",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-FOUN",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-LABT",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-LONG",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-MICR",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-PEPT",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-PERI",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-REGU",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-TEST",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-WEAR",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-WEGO",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONHIMS-27FEB22-ZAVA",
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-ANTI",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-BUND",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-CNN",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-DCST",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-HBO",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-INVE",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-LAYO",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-NETF",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-PLUT",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-REGU",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-SUBS",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-SYNE",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONPSKY-27FEB24-UFC",
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-BORD",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-COLL",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-GTA",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-MAFI",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-MYTE",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-NOPI",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-PLAY",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-PRE",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-RED",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-SWIT",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-VICE",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONTTWO-27FEB04-ZYNG",
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-AGEN",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-AIIN",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-CONN",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-ENTE",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-FIRE",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-FOUN",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-INFE",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-LOYA",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-NEMO",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-OPEN",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-PALA",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-SENS",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    },
+    {
+      "first_seen": "2026-11-11T14:59:37.256015+00:00",
+      "ticker": "KXEARNINGSMENTIONZETA-27FEB23-SNOW",
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "yes_ask": "0.9500"
+    }
+  ]
 }

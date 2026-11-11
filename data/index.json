@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-11T13:49:47.228228+00:00",
+  "updated": "2026-11-11T14:59:37.256015+00:00",
   "series_count": 179,
-  "event_count": 101,
-  "market_count": 1406,
+  "event_count": 105,
+  "market_count": 1463,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -269,6 +269,12 @@
       "file": "data/events/KXEARNINGSMENTIONHD-26NOV17.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
+      "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
+      "market_count": 19,
+      "file": "data/events/KXEARNINGSMENTIONHIMS-27FEB22.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONHLT-27FEB10",
       "company": "What will Hilton Worldwide Holdings Inc. say during their next earnings call?",
       "market_count": 11,
@@ -467,6 +473,12 @@
       "file": "data/events/KXEARNINGSMENTIONPGR-27MAR02.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
+      "company": "What will Skydance Corporation say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONPSKY-27FEB24.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONPYPL-27FEB02",
       "company": "What will PayPal Holdings, Inc. say during their next earnings call?",
       "market_count": 14,
@@ -525,6 +537,12 @@
       "company": "What will Tesla say during their next earnings call?",
       "market_count": 20,
       "file": "data/events/KXEARNINGSMENTIONTSLA-27JAN27.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONTTWO-27FEB04",
+      "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
+      "market_count": 12,
+      "file": "data/events/KXEARNINGSMENTIONTTWO-27FEB04.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONUAL-27JAN20",
@@ -597,6 +615,12 @@
       "company": "What will Clear Secure Inc. say during their next earnings call?",
       "market_count": 12,
       "file": "data/events/KXEARNINGSMENTIONYOU-27FEB24.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONZETA-27FEB23",
+      "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONZETA-27FEB23.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONZM-26NOV23",
