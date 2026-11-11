@@ -32,8 +32,8 @@
       "no_ask_dollars": "0.4500",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.6500",
-      "volume_fp": "1.50",
+      "last_price_dollars": "0.5500",
+      "volume_fp": "3.00",
       "close_time": "2027-04-21T21:30:00Z",
       "rules_primary": "If Autonomy / Autonomous is said by any Intuitive Surgical, Inc. representative (including the operator of the call) during the next Intuitive Surgical, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
