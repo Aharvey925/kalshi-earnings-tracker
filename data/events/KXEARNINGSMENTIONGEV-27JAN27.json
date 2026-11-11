@@ -65,9 +65,9 @@
       "no_bid_dollars": "0.0500",
       "no_ask_dollars": "0.1300",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "50.00",
-      "last_price_dollars": "0.8900",
-      "volume_fp": "12.00",
+      "yes_ask_size_fp": "44.76",
+      "last_price_dollars": "0.9500",
+      "volume_fp": "17.24",
       "close_time": "2027-04-27T12:30:00Z",
       "rules_primary": "If Electricity is said by any GE Vernova Inc. representative (including the operator of the call) during the next GE Vernova Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
