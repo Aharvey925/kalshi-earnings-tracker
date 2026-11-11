@@ -162,14 +162,14 @@
       "title": "What will Dick\u2019s Sporting Goods, Inc. say during their next earnings call?",
       "subtitle": null,
       "status": "active",
-      "yes_bid_dollars": "0.6800",
+      "yes_bid_dollars": "0.6700",
       "yes_ask_dollars": "0.6900",
       "no_bid_dollars": "0.3100",
-      "no_ask_dollars": "0.3200",
+      "no_ask_dollars": "0.3300",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "6.00",
-      "last_price_dollars": "0.6900",
-      "volume_fp": "114.00",
+      "last_price_dollars": "0.6800",
+      "volume_fp": "121.44",
       "close_time": "2027-02-22T13:00:00Z",
       "rules_primary": "If Tariff is said by any Dick\u2019s Sporting Goods, Inc. representative (including the operator of the call) during the next Dick\u2019s Sporting Goods, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
