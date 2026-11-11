@@ -110,7 +110,8 @@
     "KXEARNINGSMENTIONZETA-27FEB23": "2026-11-11T14:59:37.256015+00:00",
     "KXEARNINGSMENTIONASTS-27MAR01": "2026-11-11T15:53:53.093203+00:00",
     "KXEARNINGSMENTIONLUCID-27FEB23": "2026-11-11T15:53:53.093203+00:00",
-    "KXEARNINGSMENTIONRKLB-27FEB25": "2026-11-11T15:53:53.093203+00:00"
+    "KXEARNINGSMENTIONRKLB-27FEB25": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25": "2026-11-11T23:49:57.869202+00:00"
   },
   "seen_markets": {
     "KXEARNINGSMENTIONAAL-27JAN28-AT": "baseline",
@@ -1640,7 +1641,21 @@
     "KXEARNINGSMENTIONRKLB-27FEB25-REUS": "2026-11-11T15:53:53.093203+00:00",
     "KXEARNINGSMENTIONRKLB-27FEB25-SPAC": "2026-11-11T15:53:53.093203+00:00",
     "KXEARNINGSMENTIONRKLB-27FEB25-TARI": "2026-11-11T15:53:53.093203+00:00",
-    "KXEARNINGSMENTIONRKLB-27FEB25-VIRG": "2026-11-11T15:53:53.093203+00:00"
+    "KXEARNINGSMENTIONRKLB-27FEB25-VIRG": "2026-11-11T15:53:53.093203+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-AI": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-AUTO": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-DIVI": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-EXCA": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-FERT": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-HEAD": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-IRAN": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-MANU": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-OIL": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-REPA": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-TAIL": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-TARI": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-WARR": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONDE-26NOV25-WEAT": "2026-11-11T23:49:57.869202+00:00"
   },
   "new_events": [
     {
@@ -1683,6 +1698,12 @@
       "first_seen": "2026-11-11T15:53:53.093203+00:00",
       "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
       "company": "What will Rocket Lab Corporation say during their next earnings call?",
+      "contract_count": 14
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
       "contract_count": 14
     }
   ],
@@ -2365,6 +2386,104 @@
       "event_ticker": "KXEARNINGSMENTIONRKLB-27FEB25",
       "company": "What will Rocket Lab Corporation say during their next earnings call?",
       "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-AI",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-AUTO",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-DIVI",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-EXCA",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-FERT",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-HEAD",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-IRAN",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-MANU",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-OIL",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-REPA",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.5400"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-TAIL",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-TARI",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-WARR",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.6400"
+    },
+    {
+      "first_seen": "2026-11-11T23:49:57.869202+00:00",
+      "ticker": "KXEARNINGSMENTIONDE-26NOV25-WEAT",
+      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
+      "company": "What will Deere & Company say during their next earnings call?",
+      "yes_ask": "0.4100"
     }
   ]
 }
