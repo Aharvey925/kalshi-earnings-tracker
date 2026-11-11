@@ -149,10 +149,10 @@
       "yes_ask_dollars": "0.8700",
       "no_bid_dollars": "0.1300",
       "no_ask_dollars": "0.1900",
-      "yes_bid_size_fp": "73.00",
+      "yes_bid_size_fp": "69.00",
       "yes_ask_size_fp": "14.00",
       "last_price_dollars": "0.8100",
-      "volume_fp": "6018.96",
+      "volume_fp": "6022.96",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Shrink / Theft is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     },
