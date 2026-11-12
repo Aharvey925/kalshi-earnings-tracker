@@ -48,7 +48,7 @@
       "no_bid_dollars": "0.0300",
       "no_ask_dollars": "0.1100",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "80.00",
+      "yes_ask_size_fp": "50.00",
       "last_price_dollars": "0.9000",
       "volume_fp": "55.00",
       "close_time": "2027-02-10T15:00:00Z",
