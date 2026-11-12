@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-12T16:01:52.599472+00:00",
+  "updated": "2026-11-12T17:03:31.885940+00:00",
   "new_event_count": 0,
-  "new_market_count": 1,
+  "new_market_count": 0,
   "new_events": [],
-  "new_markets": [
-    {
-      "first_seen": "2026-11-12T16:01:52.599472+00:00",
-      "ticker": "KXEARNINGSMENTIONNVDA-26NOV18-HONE",
-      "event_ticker": "KXEARNINGSMENTIONNVDA-26NOV18",
-      "company": "What will NVIDIA Corporation say during their next earnings call?",
-      "yes_ask": "0.6300"
-    }
-  ]
+  "new_markets": []
 }
