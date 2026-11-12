@@ -235,9 +235,9 @@
       "no_bid_dollars": "0.5000",
       "no_ask_dollars": "0.6000",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "101.00",
-      "last_price_dollars": "0.4800",
-      "volume_fp": "134.88",
+      "yes_ask_size_fp": "100.58",
+      "last_price_dollars": "0.5000",
+      "volume_fp": "135.30",
       "close_time": "2027-05-11T15:00:00Z",
       "rules_primary": "If Monopoly is said by any McDonald's Corporation representative (including the operator of the call) during the next McDonald's Corporation live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
