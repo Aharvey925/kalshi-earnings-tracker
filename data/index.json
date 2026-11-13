@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-13T01:07:48.192723+00:00",
+  "updated": "2026-11-13T02:25:43.760324+00:00",
   "series_count": 179,
-  "event_count": 106,
-  "market_count": 1480,
+  "event_count": 105,
+  "market_count": 1468,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -33,12 +33,6 @@
       "company": "What will Alaska Air Group, Inc. say during their next earnings call?",
       "market_count": 12,
       "file": "data/events/KXEARNINGSMENTIONALK-27JAN22.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONAMAT-26NOV12",
-      "company": "What will Applied Materials, Inc. say during their next earnings call?",
-      "market_count": 12,
-      "file": "data/events/KXEARNINGSMENTIONAMAT-26NOV12.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONAMD-27FEB02",
