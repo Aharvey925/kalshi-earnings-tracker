@@ -31,9 +31,9 @@
       "no_bid_dollars": "0.6800",
       "no_ask_dollars": "0.7400",
       "yes_bid_size_fp": "48.09",
-      "yes_ask_size_fp": "48.00",
-      "last_price_dollars": "0.2600",
-      "volume_fp": "1200.75",
+      "yes_ask_size_fp": "33.09",
+      "last_price_dollars": "0.3200",
+      "volume_fp": "1215.66",
       "close_time": "2027-02-21T22:00:00Z",
       "rules_primary": "If AI Companion is said by any Zoom Communications, Inc. representative (including the operator of the call) during the next Zoom Communications, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

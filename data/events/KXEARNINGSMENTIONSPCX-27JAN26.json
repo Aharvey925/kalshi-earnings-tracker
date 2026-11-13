@@ -370,10 +370,10 @@
       "yes_ask_dollars": "0.5600",
       "no_bid_dollars": "0.4400",
       "no_ask_dollars": "0.6200",
-      "yes_bid_size_fp": "2.07",
-      "yes_ask_size_fp": "7.93",
-      "last_price_dollars": "0.4800",
-      "volume_fp": "79.13",
+      "yes_bid_size_fp": "5.53",
+      "yes_ask_size_fp": "4.47",
+      "last_price_dollars": "0.5600",
+      "volume_fp": "82.59",
       "close_time": "2027-04-26T21:30:00Z",
       "rules_primary": "If Merge / Merger is said by any SpaceX representative (including the operator of the call) during the next SpaceX live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
