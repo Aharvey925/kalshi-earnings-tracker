@@ -14,9 +14,9 @@
       "no_bid_dollars": "0.9900",
       "no_ask_dollars": "1.0000",
       "yes_bid_size_fp": "0.00",
-      "yes_ask_size_fp": "3492.56",
+      "yes_ask_size_fp": "3491.23",
       "last_price_dollars": "0.0100",
-      "volume_fp": "2002.93",
+      "volume_fp": "2004.26",
       "close_time": "2027-02-10T21:30:00Z",
       "rules_primary": "If Agent / Agentic is said by any Applied Materials, Inc. representative (including the operator of the call) during the next Applied Materials, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
@@ -98,10 +98,10 @@
       "yes_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_ask_dollars": "0.0100",
-      "yes_bid_size_fp": "2665.71",
+      "yes_bid_size_fp": "2665.00",
       "yes_ask_size_fp": "0.00",
       "last_price_dollars": "0.9900",
-      "volume_fp": "1757.46",
+      "volume_fp": "1758.17",
       "close_time": "2027-02-10T21:30:00Z",
       "rules_primary": "If Epitaxy is said by any Applied Materials, Inc. representative (including the operator of the call) during the next Applied Materials, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
@@ -200,10 +200,10 @@
       "yes_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_ask_dollars": "0.0100",
-      "yes_bid_size_fp": "657.98",
+      "yes_bid_size_fp": "584.98",
       "yes_ask_size_fp": "0.00",
       "last_price_dollars": "0.9900",
-      "volume_fp": "644.29",
+      "volume_fp": "717.29",
       "close_time": "2027-02-10T21:30:00Z",
       "rules_primary": "If Supply Chain is said by any Applied Materials, Inc. representative (including the operator of the call) during the next Applied Materials, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
