@@ -14,9 +14,9 @@
       "no_bid_dollars": "0.4500",
       "no_ask_dollars": "0.5100",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "28.00",
+      "yes_ask_size_fp": "11.38",
       "last_price_dollars": "0.5500",
-      "volume_fp": "645.56",
+      "volume_fp": "663.18",
       "close_time": "2027-04-20T15:00:00Z",
       "rules_primary": "If Avian Influenza / HPAI is said by any Cal-Maine Foods representative (including the operator of the call) during the next Cal-Maine Foods live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
@@ -49,8 +49,8 @@
       "no_ask_dollars": "0.3200",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.7700",
-      "volume_fp": "76.15",
+      "last_price_dollars": "0.7800",
+      "volume_fp": "82.46",
       "close_time": "2027-04-20T15:00:00Z",
       "rules_primary": "If Cage-Free is said by any Cal-Maine Foods representative (including the operator of the call) during the next Cal-Maine Foods live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
