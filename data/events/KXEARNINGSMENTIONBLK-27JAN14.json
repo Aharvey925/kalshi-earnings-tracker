@@ -218,9 +218,9 @@
       "no_bid_dollars": "0.0300",
       "no_ask_dollars": "0.1000",
       "yes_bid_size_fp": "10.00",
-      "yes_ask_size_fp": "150.00",
-      "last_price_dollars": "0.9500",
-      "volume_fp": "234.00",
+      "yes_ask_size_fp": "146.92",
+      "last_price_dollars": "0.9700",
+      "volume_fp": "237.08",
       "close_time": "2027-04-14T12:30:00Z",
       "rules_primary": "If Private Market is said by any BlackRock representative (including the operator of the call) during the next BlackRock live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
