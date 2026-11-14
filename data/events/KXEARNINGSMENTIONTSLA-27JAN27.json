@@ -99,9 +99,9 @@
       "no_bid_dollars": "0.6300",
       "no_ask_dollars": "0.7000",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "30.00",
-      "last_price_dollars": "0.4000",
-      "volume_fp": "2.41",
+      "yes_ask_size_fp": "17.06",
+      "last_price_dollars": "0.3700",
+      "volume_fp": "15.35",
       "close_time": "2027-04-27T22:30:00Z",
       "rules_primary": "If Grok (3+ times) is said by any Tesla representative (including the operator of the call) during the next Tesla live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
