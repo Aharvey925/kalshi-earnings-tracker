@@ -235,9 +235,9 @@
       "no_bid_dollars": "0.7500",
       "no_ask_dollars": "0.8500",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "169.00",
-      "last_price_dollars": "0.2400",
-      "volume_fp": "171.70",
+      "yes_ask_size_fp": "162.60",
+      "last_price_dollars": "0.2500",
+      "volume_fp": "179.10",
       "close_time": "2027-05-03T15:00:00Z",
       "rules_primary": "If Nvidia is said by any Advanced Micro Devices, Inc. representative (including the operator of the call) during the next Advanced Micro Devices, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
