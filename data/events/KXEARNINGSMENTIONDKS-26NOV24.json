@@ -167,9 +167,9 @@
       "no_bid_dollars": "0.3900",
       "no_ask_dollars": "0.5000",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "37.00",
-      "last_price_dollars": "0.5900",
-      "volume_fp": "242.67",
+      "yes_ask_size_fp": "9.22",
+      "last_price_dollars": "0.6100",
+      "volume_fp": "247.45",
       "close_time": "2027-02-22T13:00:00Z",
       "rules_primary": "If Tariff is said by any Dick\u2019s Sporting Goods, Inc. representative (including the operator of the call) during the next Dick\u2019s Sporting Goods, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
