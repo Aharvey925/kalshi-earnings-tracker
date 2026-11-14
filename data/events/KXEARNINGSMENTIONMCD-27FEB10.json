@@ -201,9 +201,9 @@
       "no_bid_dollars": "0.4500",
       "no_ask_dollars": "0.5400",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "11.00",
-      "last_price_dollars": "0.0000",
-      "volume_fp": "0.00",
+      "yes_ask_size_fp": "2.19",
+      "last_price_dollars": "0.5500",
+      "volume_fp": "8.81",
       "close_time": "2027-05-11T15:00:00Z",
       "rules_primary": "If McValue (3+ times) is said by any McDonald's Corporation representative (including the operator of the call) during the next McDonald's Corporation live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
