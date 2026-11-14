@@ -134,8 +134,8 @@
       "no_ask_dollars": "0.7200",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.0000",
-      "volume_fp": "0.00",
+      "last_price_dollars": "0.3800",
+      "volume_fp": "2.52",
       "close_time": "2027-04-14T13:30:00Z",
       "rules_primary": "If Geopolitical is said by any JPMorgan Chase & Co. representative (including the operator of the call) during the next JPMorgan Chase & Co. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
