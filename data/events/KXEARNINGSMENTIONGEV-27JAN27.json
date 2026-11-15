@@ -134,8 +134,8 @@
       "no_ask_dollars": "0.6200",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.4400",
-      "volume_fp": "107.67",
+      "last_price_dollars": "0.3900",
+      "volume_fp": "108.67",
       "close_time": "2027-04-27T12:30:00Z",
       "rules_primary": "If Oil is said by any GE Vernova Inc. representative (including the operator of the call) during the next GE Vernova Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
