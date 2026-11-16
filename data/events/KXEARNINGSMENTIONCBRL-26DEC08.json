@@ -133,9 +133,9 @@
       "no_bid_dollars": "0.8200",
       "no_ask_dollars": "0.9000",
       "yes_bid_size_fp": "1.00",
-      "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.1600",
-      "volume_fp": "137.76",
+      "yes_ask_size_fp": "1.00",
+      "last_price_dollars": "0.1800",
+      "volume_fp": "143.01",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Road Trip is said by any Cracker Barrel representative (including the operator of the call) during the next Cracker Barrel live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
