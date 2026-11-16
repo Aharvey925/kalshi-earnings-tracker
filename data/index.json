@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-16T15:38:41.349945+00:00",
+  "updated": "2026-11-16T17:13:44.152413+00:00",
   "series_count": 179,
   "event_count": 104,
-  "market_count": 1454,
+  "market_count": 1459,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -433,7 +433,7 @@
     {
       "event_ticker": "KXEARNINGSMENTIONNVDA-26NOV18",
       "company": "What will NVIDIA Corporation say during their next earnings call?",
-      "market_count": 25,
+      "market_count": 30,
       "file": "data/events/KXEARNINGSMENTIONNVDA-26NOV18.json"
     },
     {
