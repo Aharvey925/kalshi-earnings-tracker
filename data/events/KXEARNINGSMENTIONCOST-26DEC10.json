@@ -65,9 +65,9 @@
       "no_bid_dollars": "0.5300",
       "no_ask_dollars": "0.6200",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "3.00",
-      "last_price_dollars": "0.4800",
-      "volume_fp": "229.48",
+      "yes_ask_size_fp": "36.98",
+      "last_price_dollars": "0.4700",
+      "volume_fp": "231.50",
       "close_time": "2026-12-24T15:00:00Z",
       "rules_primary": "If Churro is said by any Costco representative (including the operator of the call) during the next Costco live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
