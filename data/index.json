@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-17T18:04:16.733204+00:00",
+  "updated": "2026-11-17T19:03:50.476184+00:00",
   "series_count": 179,
-  "event_count": 104,
-  "market_count": 1460,
+  "event_count": 101,
+  "market_count": 1417,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -57,12 +57,6 @@
       "company": "What will Aritzia say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONARITZIA-27JAN14.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONAS-26NOV17",
-      "company": "What will Amer Sports, Inc. say during their next earnings call?",
-      "market_count": 13,
-      "file": "data/events/KXEARNINGSMENTIONAS-26NOV17.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
@@ -263,12 +257,6 @@
       "file": "data/events/KXEARNINGSMENTIONGS-27JAN19.json"
     },
     {
-      "event_ticker": "KXEARNINGSMENTIONHD-26NOV17",
-      "company": "What will Home Depot say during their next earnings call?",
-      "market_count": 14,
-      "file": "data/events/KXEARNINGSMENTIONHD-26NOV17.json"
-    },
-    {
       "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
       "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
       "market_count": 19,
@@ -321,12 +309,6 @@
       "company": "What will KKR & Co. Inc. say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONKKR-27FEB04.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONKLAR-26NOV17",
-      "company": "What will Klarna Group plc say during their next earnings call?",
-      "market_count": 16,
-      "file": "data/events/KXEARNINGSMENTIONKLAR-26NOV17.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONKMX-26DEC17",
