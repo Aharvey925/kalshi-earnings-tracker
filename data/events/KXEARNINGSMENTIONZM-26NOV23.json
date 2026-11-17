@@ -133,9 +133,9 @@
       "no_bid_dollars": "0.6600",
       "no_ask_dollars": "0.7300",
       "yes_bid_size_fp": "15.00",
-      "yes_ask_size_fp": "23.00",
-      "last_price_dollars": "0.2700",
-      "volume_fp": "116.15",
+      "yes_ask_size_fp": "20.19",
+      "last_price_dollars": "0.3400",
+      "volume_fp": "118.96",
       "close_time": "2027-02-21T22:00:00Z",
       "rules_primary": "If OpenAI is said by any Zoom Communications, Inc. representative (including the operator of the call) during the next Zoom Communications, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

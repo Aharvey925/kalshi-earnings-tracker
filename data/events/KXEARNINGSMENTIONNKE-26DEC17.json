@@ -47,10 +47,10 @@
       "yes_ask_dollars": "0.8800",
       "no_bid_dollars": "0.1200",
       "no_ask_dollars": "0.1700",
-      "yes_bid_size_fp": "378.14",
+      "yes_bid_size_fp": "369.70",
       "yes_ask_size_fp": "177.48",
-      "last_price_dollars": "0.8800",
-      "volume_fp": "251.20",
+      "last_price_dollars": "0.8300",
+      "volume_fp": "259.64",
       "close_time": "2027-03-31T15:00:00Z",
       "rules_primary": "If Caitlin / Clark is said by any NIKE, Inc. representative (including the operator of the call) during the next NIKE, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
