@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-17T22:28:42.678175+00:00",
+  "updated": "2026-11-17T23:26:30.423765+00:00",
   "series_count": 179,
-  "event_count": 101,
-  "market_count": 1417,
+  "event_count": 100,
+  "market_count": 1386,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -411,12 +411,6 @@
       "company": "What will NIKE, Inc. say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONNKE-26DEC17.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONNVDA-26NOV18",
-      "company": "What will NVIDIA Corporation say during their next earnings call?",
-      "market_count": 31,
-      "file": "data/events/KXEARNINGSMENTIONNVDA-26NOV18.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONNYT-27FEB03",
