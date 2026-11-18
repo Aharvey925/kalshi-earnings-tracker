@@ -116,9 +116,9 @@
       "no_bid_dollars": "0.3300",
       "no_ask_dollars": "0.4100",
       "yes_bid_size_fp": "194.62",
-      "yes_ask_size_fp": "19.71",
+      "yes_ask_size_fp": "18.74",
       "last_price_dollars": "0.6700",
-      "volume_fp": "423.19",
+      "volume_fp": "424.16",
       "close_time": "2027-04-28T13:30:00Z",
       "rules_primary": "If Holiday is said by any American Airlines Group Inc. representative (including the operator of the call) during the next American Airlines Group Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
