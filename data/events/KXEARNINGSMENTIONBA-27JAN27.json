@@ -219,8 +219,8 @@
       "no_ask_dollars": "0.8300",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.0000",
-      "volume_fp": "0.00",
+      "last_price_dollars": "0.2700",
+      "volume_fp": "3.52",
       "close_time": "2027-04-27T15:30:00Z",
       "rules_primary": "If Wide-Body is said by any The Boeing Company representative (including the operator of the call) during the next The Boeing Company live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
