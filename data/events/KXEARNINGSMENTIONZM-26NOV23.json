@@ -99,9 +99,9 @@
       "no_bid_dollars": "0.3100",
       "no_ask_dollars": "0.4100",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "3.59",
+      "yes_ask_size_fp": "1.00",
       "last_price_dollars": "0.6900",
-      "volume_fp": "116.30",
+      "volume_fp": "119.13",
       "close_time": "2027-02-21T22:00:00Z",
       "rules_primary": "If Google / Amazon is said by any Zoom Communications, Inc. representative (including the operator of the call) during the next Zoom Communications, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
