@@ -111,7 +111,11 @@
     "KXEARNINGSMENTIONASTS-27MAR01": "2026-11-11T15:53:53.093203+00:00",
     "KXEARNINGSMENTIONLUCID-27FEB23": "2026-11-11T15:53:53.093203+00:00",
     "KXEARNINGSMENTIONRKLB-27FEB25": "2026-11-11T15:53:53.093203+00:00",
-    "KXEARNINGSMENTIONDE-26NOV25": "2026-11-11T23:49:57.869202+00:00"
+    "KXEARNINGSMENTIONDE-26NOV25": "2026-11-11T23:49:57.869202+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01": "2026-11-18T16:00:40.233983+00:00"
   },
   "seen_markets": {
     "KXEARNINGSMENTIONAAL-27JAN28-AT": "baseline",
@@ -1662,7 +1666,68 @@
     "KXEARNINGSMENTIONNVDA-26NOV18-HEAD": "2026-11-16T17:13:44.152413+00:00",
     "KXEARNINGSMENTIONNVDA-26NOV18-SPY": "2026-11-16T17:13:44.152413+00:00",
     "KXEARNINGSMENTIONNVDA-26NOV18-WHIT": "2026-11-16T17:13:44.152413+00:00",
-    "KXEARNINGSMENTIONNVDA-26NOV18-JENS": "2026-11-17T17:04:46.772653+00:00"
+    "KXEARNINGSMENTIONNVDA-26NOV18-JENS": "2026-11-17T17:04:46.772653+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-FOOT": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-IRAN": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-NORV": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-OIL": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-OLYM": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-POST": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-REI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-SABA": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-SPER": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-SUPR": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-SYST": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-TARI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONAS-27FEB23-WATE": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-COMP": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-ECOM": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-GMS": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-HUBS": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-INFL": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-INNO": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-LUMB": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-MAGI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-MEXI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-REVE": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-SHUT": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-TARI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-VOLA": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONHD-27FEB23-WEAT": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-AGEN": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-AI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-APPL": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-CRED": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-DELI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-FISE": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-GEMI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-HEAD": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-HEADC": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-INFL": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-JP": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-PROF": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-SOUT": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-SWED": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-TAIL": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-WALM": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONKLAR-27FEB19-WHAT": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-AWS": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-CELE": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-INDI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-INFE": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-LUME": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-NPO": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-NVID": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-PENG": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-PHOT": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-PIPE": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-POLA": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-PREP": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-STOR": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-TERA": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-TRAI": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-WARR": "2026-11-18T16:00:40.233983+00:00",
+    "KXEARNINGSMENTIONMRVL-26DEC01-XCON": "2026-11-18T16:00:40.233983+00:00"
   },
   "new_events": [
     {
@@ -1712,6 +1777,30 @@
       "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
       "company": "What will Deere & Company say during their next earnings call?",
       "contract_count": 14
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "contract_count": 13
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "contract_count": 14
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "contract_count": 17
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "contract_count": 17
     }
   ],
   "new_markets": [
@@ -2540,6 +2629,433 @@
       "event_ticker": "KXEARNINGSMENTIONNVDA-26NOV18",
       "company": "What will NVIDIA Corporation say during their next earnings call?",
       "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-FOOT",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-IRAN",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.3100"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-NORV",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-OIL",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.7500"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-OLYM",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-POST",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.9300"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-REI",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.8300"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-SABA",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.4800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-SPER",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.3500"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-SUPR",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.2900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-SYST",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.9300"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-TARI",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONAS-27FEB23-WATE",
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "yes_ask": "0.8300"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-COMP",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-ECOM",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.3900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-GMS",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-HUBS",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-INFL",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-INNO",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-LUMB",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-MAGI",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-MEXI",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-REVE",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.4400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-SHUT",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.3900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-TARI",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-VOLA",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONHD-27FEB23-WEAT",
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "yes_ask": "0.8600"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-AGEN",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.8700"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-AI",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-APPL",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-CRED",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-DELI",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-FISE",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.7800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-GEMI",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.3200"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-HEAD",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-HEADC",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.3700"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-INFL",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.2900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-JP",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-PROF",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.8600"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-SOUT",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.3100"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-SWED",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-TAIL",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-WALM",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONKLAR-27FEB19-WHAT",
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "yes_ask": "0.8700"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-AWS",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.3900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-CELE",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-INDI",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.2900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-INFE",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-LUME",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.8000"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-NPO",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.7800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-NVID",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-PENG",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.3500"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-PHOT",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-PIPE",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.7000"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-POLA",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.3400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-PREP",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-STOR",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-TERA",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.5400"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-TRAI",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.2900"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-WARR",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.7800"
+    },
+    {
+      "first_seen": "2026-11-18T16:00:40.233983+00:00",
+      "ticker": "KXEARNINGSMENTIONMRVL-26DEC01-XCON",
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "yes_ask": "0.5900"
     }
   ]
 }

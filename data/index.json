@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-18T14:57:34.631830+00:00",
+  "updated": "2026-11-18T16:00:40.233983+00:00",
   "series_count": 179,
-  "event_count": 98,
-  "market_count": 1357,
+  "event_count": 102,
+  "market_count": 1418,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -57,6 +57,12 @@
       "company": "What will Aritzia say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONARITZIA-27JAN14.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
+      "company": "What will Amer Sports, Inc. say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONAS-27FEB23.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
@@ -251,6 +257,12 @@
       "file": "data/events/KXEARNINGSMENTIONGS-27JAN19.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONHD-27FEB23",
+      "company": "What will Home Depot say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONHD-27FEB23.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONHIMS-27FEB22",
       "company": "What will Hims & Hers Health, Inc. say during their next earnings call?",
       "market_count": 19,
@@ -303,6 +315,12 @@
       "company": "What will KKR & Co. Inc. say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONKKR-27FEB04.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
+      "company": "What will Klarna Group plc say during their next earnings call?",
+      "market_count": 17,
+      "file": "data/events/KXEARNINGSMENTIONKLAR-27FEB19.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONKMX-26DEC17",
@@ -381,6 +399,12 @@
       "company": "What will McCormick & Company, Incorporated say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONMKC-27JAN28.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
+      "company": "What will Marvell Technology, Inc. say during their next earnings call?",
+      "market_count": 17,
+      "file": "data/events/KXEARNINGSMENTIONMRVL-26DEC01.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONMS-27JAN14",
