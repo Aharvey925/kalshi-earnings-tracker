@@ -133,9 +133,9 @@
       "no_bid_dollars": "0.4700",
       "no_ask_dollars": "0.5200",
       "yes_bid_size_fp": "29.74",
-      "yes_ask_size_fp": "25.00",
-      "last_price_dollars": "0.5500",
-      "volume_fp": "950.74",
+      "yes_ask_size_fp": "1.00",
+      "last_price_dollars": "0.5400",
+      "volume_fp": "963.65",
       "close_time": "2027-02-17T13:00:00Z",
       "rules_primary": "If Prescription is said by any Walmart Inc. representative (including the operator of the call) during the next Walmart Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
