@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-18T13:51:19.162217+00:00",
+  "updated": "2026-11-18T14:57:34.631830+00:00",
   "series_count": 179,
-  "event_count": 100,
-  "market_count": 1386,
+  "event_count": 98,
+  "market_count": 1357,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -189,12 +189,6 @@
       "company": "What will Dell Technologies Inc. say during their next earnings call?",
       "market_count": 17,
       "file": "data/events/KXEARNINGSMENTIONDELL-26NOV24.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONDIS-26NOV17",
-      "company": "What will The Walt Disney Company say during their next earnings call?",
-      "market_count": 14,
-      "file": "data/events/KXEARNINGSMENTIONDIS-26NOV17.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONDKS-26NOV24",
@@ -495,12 +489,6 @@
       "company": "What will Constellation Brands, Inc. say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONSTZ-27JAN07.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONTGT-26NOV18",
-      "company": "What will Target Corporation say during their next earnings call?",
-      "market_count": 15,
-      "file": "data/events/KXEARNINGSMENTIONTGT-26NOV18.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONTOST-27FEB11",
