@@ -168,8 +168,8 @@
       "no_ask_dollars": "0.3100",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.0000",
-      "volume_fp": "0.00",
+      "last_price_dollars": "0.7900",
+      "volume_fp": "0.08",
       "close_time": "2027-05-18T15:00:00Z",
       "rules_primary": "If NFL / NBA is said by any Wingstop Inc. representative (including the operator of the call) during the next Wingstop Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
