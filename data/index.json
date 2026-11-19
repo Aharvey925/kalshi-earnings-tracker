@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-19T22:51:47.394028+00:00",
+  "updated": "2026-11-19T23:46:03.998725+00:00",
   "series_count": 216,
-  "event_count": 146,
-  "market_count": 2049,
+  "event_count": 145,
+  "market_count": 2036,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -399,12 +399,6 @@
       "company": "What will IBM say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONIBM-27JAN27.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONINTU-26NOV19",
-      "company": "What will Intuit Inc. say during their next earnings call?",
-      "market_count": 13,
-      "file": "data/events/KXEARNINGSMENTIONINTU-26NOV19.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONISRG-27JAN21",
