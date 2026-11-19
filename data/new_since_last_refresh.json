@@ -1,7 +1,1085 @@
 {
-  "updated": "2026-11-19T14:57:14.491372+00:00",
-  "new_event_count": 0,
-  "new_market_count": 0,
-  "new_events": [],
-  "new_markets": []
+  "updated": "2026-11-19T16:00:51.924984+00:00",
+  "new_event_count": 9,
+  "new_market_count": 146,
+  "new_events": [
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "contract_count": 14
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "contract_count": 13
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "contract_count": 18
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "contract_count": 13
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "contract_count": 27
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "contract_count": 14
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "contract_count": 16
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "contract_count": 16
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "contract_count": 15
+    }
+  ],
+  "new_markets": [
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-ANTH",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-ETHE",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-GOOG",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-HYPE",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-IRON",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-JERI",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-META",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-OPEN",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-OPENS",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.3200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-OPTI",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.6400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-SERD",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.6400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-TOMA",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-VCF",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONAVGO-26DEC09-VMWA",
+      "event_ticker": "KXEARNINGSMENTIONAVGO-26DEC09",
+      "company": "What will Broadcom say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-BLUE",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.5400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-HEAD",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.6800"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-HYPE",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-INDI",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-INVE",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-MULT",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-NEOS",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-PLUG",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.6400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-QUAN",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.3100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-RLS",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-SUBS",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.7400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-TARI",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCIEN-26DEC10-WAVE",
+      "event_ticker": "KXEARNINGSMENTIONCIEN-26DEC10",
+      "company": "What will Ciena say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-AGEN",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-ANTH",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-CLAU",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-COMM",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-CONT",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-COPI",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-COWO",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-CUST",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-DATA",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-HEAD",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-INFO",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-MCP",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-MULE",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-OPEN",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-SLAC",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-SLACK",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-TABL",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONCRM-26DEC02-TOKE",
+      "event_ticker": "KXEARNINGSMENTIONCRM-26DEC02",
+      "company": "What will Salesforce, Inc. say during their next earnings call?",
+      "yes_ask": "0.9000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-ALO",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.3200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-DAYD",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.5200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-HEAD",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-HOLI",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.7500"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-IRAN",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.9300"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-LIKE",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.3400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-MARA",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-MEMB",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-NEWN",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.7900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-POWE",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.3100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-SHOW",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.4400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-TARI",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONLULU-26DEC10-VENT",
+      "event_ticker": "KXEARNINGSMENTIONLULU-26DEC10",
+      "company": "What will Lululemon say during their next earnings call?",
+      "yes_ask": "0.5900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-ALIB",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.8100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-AUTO",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.7700"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-COSM",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-DIVI",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.7400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-DOME",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.6600"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-DSX",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-ELON",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.8200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-EXPO",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-GAMI",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-H20",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.7900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-HUGG",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-HUMA",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.7900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-HYPE",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-ISAA",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-JENS",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-MEGA",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.8100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-NATI",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-OMNI",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-RENT",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-RUBI",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-SELF",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-SPY",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.8100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-TAIW",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.6800"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-TARI",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.7500"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-TRUM",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.5300"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-TSMC",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.7400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONNVDA-27FEB24-WHIT",
+      "event_ticker": "KXEARNINGSMENTIONNVDA-27FEB24",
+      "company": "What will NVIDIA Corporation say during their next earnings call?",
+      "yes_ask": "0.8100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-AMD",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-AUTO",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-BACK",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-DEBT",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-GOOG",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-JAVA",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.2400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-MULT",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.8400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-NVID",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-OPEN",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.8000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-ORAC",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-PRIM",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.2100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-SOVE",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.9300"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-STAR",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.2900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONORCL-26DEC10-TIKT",
+      "event_ticker": "KXEARNINGSMENTIONORCL-26DEC10",
+      "company": "What will Oracle say during their next earnings call?",
+      "yes_ask": "0.3100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-AGEN",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-BACK",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.4100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-BEAU",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-CIRC",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-COMP",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.8600"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-FANS",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-FUN1",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-HEYD",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-INFL",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.2900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-OPEN",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.8900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-POKE",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-REMO",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9200"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-REVE",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-ROUN",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-SNAP",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.6800"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTGT-27MAR02-TARI",
+      "event_ticker": "KXEARNINGSMENTIONTGT-27MAR02",
+      "company": "What will Target Corporation say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-APAR",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.5400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-BUFF",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-BUYB",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.6800"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-BUYD",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.8000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-CALI",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.5400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-CASH",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.9100"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-CUST",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.8000"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-FLOR",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-INCE",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-LAND",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-LUMB",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.8800"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-MORT",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-MOVE",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.3900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-SPEC",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-TARI",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.4900"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONTOL-26DEC08-WASH",
+      "event_ticker": "KXEARNINGSMENTIONTOL-26DEC08",
+      "company": "What will Toll Brothers, Inc. say during their next earnings call?",
+      "yes_ask": "0.5400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-AI",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-BOMB",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-CONV",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-FASH",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-FRAG",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-HAIL",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-HEAD",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-LOYA",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-PINK",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-SPOR",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-STON",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-TAIL",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-TARI",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-TICK",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    },
+    {
+      "first_seen": "2026-11-19T16:00:51.924984+00:00",
+      "ticker": "KXEARNINGSMENTIONVSCO-26DEC03-VALE",
+      "event_ticker": "KXEARNINGSMENTIONVSCO-26DEC03",
+      "company": "What will Victoria's Secret & Co. say during their next earnings call?",
+      "yes_ask": "0.9400"
+    }
+  ]
 }
