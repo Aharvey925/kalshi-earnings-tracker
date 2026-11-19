@@ -132,10 +132,10 @@
       "yes_ask_dollars": "0.5300",
       "no_bid_dollars": "0.4700",
       "no_ask_dollars": "0.4800",
-      "yes_bid_size_fp": "23.18",
+      "yes_bid_size_fp": "21.36",
       "yes_ask_size_fp": "32.93",
-      "last_price_dollars": "0.5300",
-      "volume_fp": "102.72",
+      "last_price_dollars": "0.5200",
+      "volume_fp": "104.54",
       "close_time": "2027-02-23T15:00:00Z",
       "rules_primary": "If Manufacturing is said by any Deere & Company representative (including the operator of the call) during the next Deere & Company live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
