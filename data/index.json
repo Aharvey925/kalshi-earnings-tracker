@@ -1,14 +1,26 @@
 {
-  "updated": "2026-11-19T00:27:28.982236+00:00",
+  "updated": "2026-11-19T01:53:41.419409+00:00",
   "series_count": 216,
-  "event_count": 102,
-  "market_count": 1418,
+  "event_count": 139,
+  "market_count": 1930,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
       "company": "What will American Airlines Group Inc. say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONAAL-27JAN28.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONABBV-27FEB03",
+      "company": "What will AbbVie say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONABBV-27FEB03.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONABT-27JAN21",
+      "company": "What will Abbott Laboratories say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONABT-27JAN21.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONACI-27JAN13",
@@ -29,6 +41,12 @@
       "file": "data/events/KXEARNINGSMENTIONADBE-26DEC09.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONADI-26NOV24",
+      "company": "What will Analog Devices say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONADI-26NOV24.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONALK-27JAN22",
       "company": "What will Alaska Air Group, Inc. say during their next earnings call?",
       "market_count": 12,
@@ -47,10 +65,22 @@
       "file": "data/events/KXEARNINGSMENTIONAMGN-27FEB02.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONANET-27FEB11",
+      "company": "What will Arista Networks say during their next earnings call?",
+      "market_count": 15,
+      "file": "data/events/KXEARNINGSMENTIONANET-27FEB11.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONANF-26NOV24",
       "company": "What will Abercrombie & Fitch Company say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONANF-26NOV24.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONAPH-27JAN27",
+      "company": "What will Amphenol say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONAPH-27JAN27.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONARITZIA-27JAN14",
@@ -59,10 +89,22 @@
       "file": "data/events/KXEARNINGSMENTIONARITZIA-27JAN14.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONARM-27FEB03",
+      "company": "What will Arm say during their next earnings call?",
+      "market_count": 12,
+      "file": "data/events/KXEARNINGSMENTIONARM-27FEB03.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONAS-27FEB23",
       "company": "What will Amer Sports, Inc. say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONAS-27FEB23.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONASML-27JAN27",
+      "company": "What will ASML say during their next earnings call?",
+      "market_count": 15,
+      "file": "data/events/KXEARNINGSMENTIONASML-27JAN27.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONASTS-27MAR01",
@@ -113,6 +155,12 @@
       "file": "data/events/KXEARNINGSMENTIONBJ-26NOV20.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONBKNG-27FEB17",
+      "company": "What will Booking Holdings say during their next earnings call?",
+      "market_count": 11,
+      "file": "data/events/KXEARNINGSMENTIONBKNG-27FEB17.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONBLK-27JAN14",
       "company": "What will BlackRock say during their next earnings call?",
       "market_count": 18,
@@ -143,6 +191,12 @@
       "file": "data/events/KXEARNINGSMENTIONCAR-27FEB18.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONCAT-27JAN28",
+      "company": "What will Caterpillar say during their next earnings call?",
+      "market_count": 11,
+      "file": "data/events/KXEARNINGSMENTIONCAT-27JAN28.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONCBRL-26DEC08",
       "company": "What will Cracker Barrel say during their next earnings call?",
       "market_count": 10,
@@ -159,6 +213,12 @@
       "company": "What will Chewy say during their next earnings call?",
       "market_count": 11,
       "file": "data/events/KXEARNINGSMENTIONCHWY-26DEC09.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONCOP-27FEB04",
+      "company": "What will ConocoPhillips say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONCOP-27FEB04.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONCOST-26DEC10",
@@ -179,6 +239,18 @@
       "file": "data/events/KXEARNINGSMENTIONCRWD-26DEC01.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONCSCO-27FEB10",
+      "company": "What will Cisco say during their next earnings call?",
+      "market_count": 12,
+      "file": "data/events/KXEARNINGSMENTIONCSCO-27FEB10.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONCVX-27JAN29",
+      "company": "What will Chevron say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONCVX-27JAN29.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONDAL-27JAN13",
       "company": "What will Delta Air Lines, Inc. say during their next earnings call?",
       "market_count": 15,
@@ -195,6 +267,12 @@
       "company": "What will Dell Technologies Inc. say during their next earnings call?",
       "market_count": 17,
       "file": "data/events/KXEARNINGSMENTIONDELL-26NOV24.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONDHR-27JAN27",
+      "company": "What will Danaher say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONDHR-27JAN27.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONDKS-26NOV24",
@@ -233,10 +311,22 @@
       "file": "data/events/KXEARNINGSMENTIONFUTU-26NOV17.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONGE-27JAN21",
+      "company": "What will GE Aerospace say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONGE-27JAN21.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONGEV-27JAN27",
       "company": "What will GE Vernova Inc. say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONGEV-27JAN27.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONGILD-27FEB09",
+      "company": "What will Gilead Sciences say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONGILD-27FEB09.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONGIS-26DEC16",
@@ -287,6 +377,12 @@
       "file": "data/events/KXEARNINGSMENTIONHPE-26NOV23.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONIBM-27JAN27",
+      "company": "What will IBM say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONIBM-27JAN27.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONINTU-26NOV19",
       "company": "What will Intuit Inc. say during their next earnings call?",
       "market_count": 13,
@@ -315,6 +411,12 @@
       "company": "What will KKR & Co. Inc. say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONKKR-27FEB04.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONKLAC-27JAN28",
+      "company": "What will KLA say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONKLAC-27JAN28.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONKLAR-27FEB19",
@@ -347,6 +449,12 @@
       "file": "data/events/KXEARNINGSMENTIONLEVI-27JAN27.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONLIN-27FEB04",
+      "company": "What will Linde say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONLIN-27FEB04.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONLMT-27JAN28",
       "company": "What will Lockheed Martin Corporation say during their next earnings call?",
       "market_count": 13,
@@ -357,6 +465,12 @@
       "company": "What will Lowe's Companies, Inc. say during their next earnings call?",
       "market_count": 10,
       "file": "data/events/KXEARNINGSMENTIONLOW-26NOV18.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONLRCX-27JAN27",
+      "company": "What will Lam Research say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONLRCX-27JAN27.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONLUCID-27FEB23",
@@ -401,6 +515,12 @@
       "file": "data/events/KXEARNINGSMENTIONMKC-27JAN28.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONMRK-27FEB02",
+      "company": "What will Merck say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONMRK-27FEB02.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONMRVL-26DEC01",
       "company": "What will Marvell Technology, Inc. say during their next earnings call?",
       "market_count": 17,
@@ -417,6 +537,18 @@
       "company": "What will Vail Resorts, Inc. say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONMTN-26DEC09.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONNEE-27JAN26",
+      "company": "What will NextEra Energy say during their next earnings call?",
+      "market_count": 12,
+      "file": "data/events/KXEARNINGSMENTIONNEE-27JAN26.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONNEM-27FEB18",
+      "company": "What will Newmont say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONNEM-27FEB18.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONNFLX-27JAN19",
@@ -455,10 +587,28 @@
       "file": "data/events/KXEARNINGSMENTIONPEP-27FEB02.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONPFE-27FEB02",
+      "company": "What will Pfizer say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONPFE-27FEB02.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONPGR-27MAR02",
       "company": "What will The Progressive Corporation say during their next earnings call?",
       "market_count": 12,
       "file": "data/events/KXEARNINGSMENTIONPGR-27MAR02.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONPLD-27JAN20",
+      "company": "What will Prologis say during their next earnings call?",
+      "market_count": 11,
+      "file": "data/events/KXEARNINGSMENTIONPLD-27JAN20.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONPM-27FEB05",
+      "company": "What will Philip Morris International say during their next earnings call?",
+      "market_count": 15,
+      "file": "data/events/KXEARNINGSMENTIONPM-27FEB05.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONPSKY-27FEB24",
@@ -485,16 +635,40 @@
       "file": "data/events/KXEARNINGSMENTIONROST-26NOV19.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONRTX-27JAN26",
+      "company": "What will RTX say during their next earnings call?",
+      "market_count": 12,
+      "file": "data/events/KXEARNINGSMENTIONRTX-27JAN26.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONRY-26DEC03",
       "company": "What will Royal Bank of Canada say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONRY-26DEC03.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONSCHW-27JAN20",
+      "company": "What will Charles Schwab say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONSCHW-27JAN20.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONSJM-26NOV24",
       "company": "What will JM Smucker say during their next earnings call?",
       "market_count": 11,
       "file": "data/events/KXEARNINGSMENTIONSJM-26NOV24.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONSKHY-27JAN27",
+      "company": "What will SK hynix say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONSKHY-27JAN27.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONSNDK-27JAN28",
+      "company": "What will Sandisk say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONSNDK-27JAN28.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONSPCX-27JAN26",
@@ -515,6 +689,24 @@
       "file": "data/events/KXEARNINGSMENTIONSTZ-27JAN07.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONTJX-27FEB24",
+      "company": "What will TJX say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONTJX-27FEB24.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONTMO-27JAN28",
+      "company": "What will Thermo Fisher Scientific say during their next earnings call?",
+      "market_count": 15,
+      "file": "data/events/KXEARNINGSMENTIONTMO-27JAN28.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONTMUS-27FEB10",
+      "company": "What will T-Mobile say during their next earnings call?",
+      "market_count": 12,
+      "file": "data/events/KXEARNINGSMENTIONTMUS-27FEB10.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONTOST-27FEB11",
       "company": "What will Toast, Inc. say during their next earnings call?",
       "market_count": 9,
@@ -531,6 +723,12 @@
       "company": "What will Take-Two Interactive Software, Inc. say during their next earnings call?",
       "market_count": 12,
       "file": "data/events/KXEARNINGSMENTIONTTWO-27FEB04.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONTXN-27JAN26",
+      "company": "What will Texas Instruments say during their next earnings call?",
+      "market_count": 12,
+      "file": "data/events/KXEARNINGSMENTIONTXN-27JAN26.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONUAL-27JAN20",
@@ -551,6 +749,18 @@
       "file": "data/events/KXEARNINGSMENTIONULTA-26DEC03.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONUNH-27JAN26",
+      "company": "What will UnitedHealth Group say during their next earnings call?",
+      "market_count": 17,
+      "file": "data/events/KXEARNINGSMENTIONUNH-27JAN26.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONUNP-27JAN26",
+      "company": "What will Union Pacific say during their next earnings call?",
+      "market_count": 15,
+      "file": "data/events/KXEARNINGSMENTIONUNP-27JAN26.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONURBN-26NOV24",
       "company": "What will Urban Outfitters, Inc. say during their next earnings call?",
       "market_count": 14,
@@ -567,6 +777,12 @@
       "company": "What will Verizon Communications Inc. say during their next earnings call?",
       "market_count": 16,
       "file": "data/events/KXEARNINGSMENTIONVZ-27JAN29.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONWELL-27FEB10",
+      "company": "What will Welltower say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONWELL-27FEB10.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONWFC-27JAN14",
@@ -591,6 +807,12 @@
       "company": "What will Walmart Inc. say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONWMT-26NOV19.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONXOM-27JAN29",
+      "company": "What will ExxonMobil say during their next earnings call?",
+      "market_count": 17,
+      "file": "data/events/KXEARNINGSMENTIONXOM-27JAN29.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONYOU-27FEB24",
