@@ -32,8 +32,8 @@
       "no_ask_dollars": "0.4000",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "25.00",
-      "last_price_dollars": "0.6500",
-      "volume_fp": "367.80",
+      "last_price_dollars": "0.6000",
+      "volume_fp": "370.19",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Deflation is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     },
@@ -150,9 +150,9 @@
       "no_bid_dollars": "0.1100",
       "no_ask_dollars": "0.1900",
       "yes_bid_size_fp": "121.51",
-      "yes_ask_size_fp": "20.00",
-      "last_price_dollars": "0.8100",
-      "volume_fp": "6206.99",
+      "yes_ask_size_fp": "7.00",
+      "last_price_dollars": "0.9000",
+      "volume_fp": "6233.99",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Shrink / Theft is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     },
@@ -183,10 +183,10 @@
       "yes_ask_dollars": "0.4300",
       "no_bid_dollars": "0.5700",
       "no_ask_dollars": "0.6200",
-      "yes_bid_size_fp": "35.00",
-      "yes_ask_size_fp": "27.00",
+      "yes_bid_size_fp": "12.74",
+      "yes_ask_size_fp": "24.77",
       "last_price_dollars": "0.4300",
-      "volume_fp": "559.47",
+      "volume_fp": "583.96",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Tariff is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     }
