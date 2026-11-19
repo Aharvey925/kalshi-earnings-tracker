@@ -14,9 +14,9 @@
       "no_bid_dollars": "0.1400",
       "no_ask_dollars": "0.2000",
       "yes_bid_size_fp": "164.00",
-      "yes_ask_size_fp": "29.00",
-      "last_price_dollars": "0.8000",
-      "volume_fp": "1665.68",
+      "yes_ask_size_fp": "24.00",
+      "last_price_dollars": "0.8600",
+      "volume_fp": "1670.68",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If AI / Artificial Intelligence is said by any Kroger representative (including the operator of the call) during the next Kroger earnings call (including the Q+A), then the market resolves to Yes."
     },
