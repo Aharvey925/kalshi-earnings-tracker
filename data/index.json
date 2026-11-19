@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-19T13:54:55.637488+00:00",
+  "updated": "2026-11-19T14:57:14.491372+00:00",
   "series_count": 216,
-  "event_count": 139,
-  "market_count": 1930,
+  "event_count": 138,
+  "market_count": 1919,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -567,12 +567,6 @@
       "company": "What will New York Times Company say during their next earnings call?",
       "market_count": 12,
       "file": "data/events/KXEARNINGSMENTIONNYT-27FEB03.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONPANW-26NOV18",
-      "company": "What will Palo Alto Networks say during their next earnings call?",
-      "market_count": 11,
-      "file": "data/events/KXEARNINGSMENTIONPANW-26NOV18.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONPATH-26DEC03",
