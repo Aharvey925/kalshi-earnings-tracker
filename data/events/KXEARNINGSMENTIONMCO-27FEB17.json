@@ -151,8 +151,8 @@
       "no_ask_dollars": "0.7300",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.3200",
-      "volume_fp": "251.19",
+      "last_price_dollars": "0.3700",
+      "volume_fp": "253.49",
       "close_time": "2027-05-18T14:00:00Z",
       "rules_primary": "If Rate Cut / Cut Rate is said by any Moody's Corporation representative (including the operator of the call) during the next Moody's Corporation live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

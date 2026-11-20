@@ -303,9 +303,9 @@
       "no_bid_dollars": "0.2900",
       "no_ask_dollars": "0.3000",
       "yes_bid_size_fp": "4.12",
-      "yes_ask_size_fp": "93.62",
+      "yes_ask_size_fp": "28.74",
       "last_price_dollars": "0.7100",
-      "volume_fp": "1140.94",
+      "volume_fp": "1205.82",
       "close_time": "2026-12-24T15:00:00Z",
       "rules_primary": "If Revenue is said by any Costco representative (including the operator of the call) during the next Costco live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

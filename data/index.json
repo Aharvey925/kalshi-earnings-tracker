@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-20T15:31:57.545106+00:00",
+  "updated": "2026-11-20T16:32:20.944904+00:00",
   "series_count": 216,
-  "event_count": 143,
-  "market_count": 2007,
+  "event_count": 139,
+  "market_count": 1961,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -153,12 +153,6 @@
       "company": "What will BlackBerry say during their next earnings call?",
       "market_count": 14,
       "file": "data/events/KXEARNINGSMENTIONBB-26DEC17.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONBJ-26NOV20",
-      "company": "What will BJ's Wholesale Club Holdings, Inc. say during their next earnings call?",
-      "market_count": 12,
-      "file": "data/events/KXEARNINGSMENTIONBJ-26NOV20.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONBKNG-27FEB17",
@@ -317,12 +311,6 @@
       "file": "data/events/KXEARNINGSMENTIONDUOL-27FEB25.json"
     },
     {
-      "event_ticker": "KXEARNINGSMENTIONFUTU-26NOV17",
-      "company": "What will Futu Holdings Limited say during their next earnings call?",
-      "market_count": 11,
-      "file": "data/events/KXEARNINGSMENTIONFUTU-26NOV17.json"
-    },
-    {
       "event_ticker": "KXEARNINGSMENTIONGE-27JAN21",
       "company": "What will GE Aerospace say during their next earnings call?",
       "market_count": 14,
@@ -465,12 +453,6 @@
       "company": "What will Lockheed Martin Corporation say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONLMT-27JAN28.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONLOW-26NOV18",
-      "company": "What will Lowe's Companies, Inc. say during their next earnings call?",
-      "market_count": 10,
-      "file": "data/events/KXEARNINGSMENTIONLOW-26NOV18.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONLRCX-27JAN27",
@@ -825,12 +807,6 @@
       "company": "What will Wingstop Inc. say during their next earnings call?",
       "market_count": 15,
       "file": "data/events/KXEARNINGSMENTIONWING-27FEB17.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONWMT-26NOV19",
-      "company": "What will Walmart Inc. say during their next earnings call?",
-      "market_count": 13,
-      "file": "data/events/KXEARNINGSMENTIONWMT-26NOV19.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONXOM-27JAN29",
