@@ -65,9 +65,9 @@
       "no_bid_dollars": "0.3400",
       "no_ask_dollars": "0.4000",
       "yes_bid_size_fp": "19.00",
-      "yes_ask_size_fp": "3.00",
-      "last_price_dollars": "0.6700",
-      "volume_fp": "354.67",
+      "yes_ask_size_fp": "1.53",
+      "last_price_dollars": "0.6600",
+      "volume_fp": "356.14",
       "close_time": "2027-02-22T14:00:00Z",
       "rules_primary": "If Dunkin is said by any JM Smucker representative (including the operator of the call) during the next JM Smucker live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
