@@ -183,10 +183,10 @@
       "yes_ask_dollars": "1.0000",
       "no_bid_dollars": "0.0000",
       "no_ask_dollars": "0.0100",
-      "yes_bid_size_fp": "12647.73",
+      "yes_bid_size_fp": "12460.73",
       "yes_ask_size_fp": "0.00",
       "last_price_dollars": "0.9900",
-      "volume_fp": "3288.19",
+      "volume_fp": "3475.19",
       "close_time": "2027-02-15T12:30:00Z",
       "rules_primary": "If Tokenized / Tokenization is said by any Futu Holdings Limited representative (including the operator of the call) during the next Futu Holdings Limited live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
