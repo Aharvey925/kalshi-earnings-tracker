@@ -82,9 +82,9 @@
       "no_bid_dollars": "0.4000",
       "no_ask_dollars": "0.4700",
       "yes_bid_size_fp": "39.00",
-      "yes_ask_size_fp": "4.00",
-      "last_price_dollars": "0.5200",
-      "volume_fp": "69.20",
+      "yes_ask_size_fp": "3.76",
+      "last_price_dollars": "0.6000",
+      "volume_fp": "69.44",
       "close_time": "2027-02-22T15:00:00Z",
       "rules_primary": "If China is said by any Analog Devices representative (including the operator of the call) during the next Analog Devices live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
