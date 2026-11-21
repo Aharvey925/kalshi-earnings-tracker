@@ -48,9 +48,9 @@
       "no_bid_dollars": "0.3500",
       "no_ask_dollars": "0.4400",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "9.73",
+      "yes_ask_size_fp": "9.23",
       "last_price_dollars": "0.6500",
-      "volume_fp": "469.82",
+      "volume_fp": "471.32",
       "close_time": "2027-03-02T15:00:00Z",
       "rules_primary": "If Ask Macy's is said by any Macy's representative (including the operator of the call) during the next Macy's live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
