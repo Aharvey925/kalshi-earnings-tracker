@@ -65,9 +65,9 @@
       "no_bid_dollars": "0.4000",
       "no_ask_dollars": "0.4900",
       "yes_bid_size_fp": "32.00",
-      "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.5200",
-      "volume_fp": "280.97",
+      "yes_ask_size_fp": "99.19",
+      "last_price_dollars": "0.6000",
+      "volume_fp": "281.78",
       "close_time": "2027-04-26T21:30:00Z",
       "rules_primary": "If Colossus is said by any SpaceX representative (including the operator of the call) during the next SpaceX live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
