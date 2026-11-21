@@ -65,9 +65,9 @@
       "no_bid_dollars": "0.4100",
       "no_ask_dollars": "0.4800",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "20.07",
+      "yes_ask_size_fp": "16.78",
       "last_price_dollars": "0.5900",
-      "volume_fp": "209.43",
+      "volume_fp": "212.72",
       "close_time": "2027-03-09T22:00:00Z",
       "rules_primary": "If Generative AI / Gen AI is said by any Adobe representative (including the operator of the call) during the next Adobe live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
