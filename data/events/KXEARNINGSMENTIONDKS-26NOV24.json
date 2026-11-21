@@ -132,10 +132,10 @@
       "yes_ask_dollars": "0.4100",
       "no_bid_dollars": "0.5900",
       "no_ask_dollars": "0.6700",
-      "yes_bid_size_fp": "1.00",
+      "yes_bid_size_fp": "8.99",
       "yes_ask_size_fp": "98.83",
-      "last_price_dollars": "0.4100",
-      "volume_fp": "225.42",
+      "last_price_dollars": "0.3300",
+      "volume_fp": "225.43",
       "close_time": "2027-02-22T13:00:00Z",
       "rules_primary": "If Refund is said by any Dick\u2019s Sporting Goods, Inc. representative (including the operator of the call) during the next Dick\u2019s Sporting Goods, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
