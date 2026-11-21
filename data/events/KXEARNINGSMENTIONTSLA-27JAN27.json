@@ -48,9 +48,9 @@
       "no_bid_dollars": "0.0300",
       "no_ask_dollars": "0.0900",
       "yes_bid_size_fp": "20.00",
-      "yes_ask_size_fp": "50.00",
-      "last_price_dollars": "0.9500",
-      "volume_fp": "244.07",
+      "yes_ask_size_fp": "49.00",
+      "last_price_dollars": "0.9700",
+      "volume_fp": "245.07",
       "close_time": "2027-04-27T22:30:00Z",
       "rules_primary": "If Cybercab is said by any Tesla representative (including the operator of the call) during the next Tesla live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
