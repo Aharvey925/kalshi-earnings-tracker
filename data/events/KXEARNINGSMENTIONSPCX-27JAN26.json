@@ -82,9 +82,9 @@
       "no_bid_dollars": "0.3300",
       "no_ask_dollars": "0.4300",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.6600",
-      "volume_fp": "29.23",
+      "yes_ask_size_fp": "98.55",
+      "last_price_dollars": "0.6700",
+      "volume_fp": "30.68",
       "close_time": "2027-04-26T21:30:00Z",
       "rules_primary": "If Combine / Combining is said by any SpaceX representative (including the operator of the call) during the next SpaceX live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

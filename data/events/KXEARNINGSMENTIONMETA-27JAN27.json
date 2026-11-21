@@ -98,10 +98,10 @@
       "yes_ask_dollars": "0.3500",
       "no_bid_dollars": "0.6500",
       "no_ask_dollars": "0.7500",
-      "yes_bid_size_fp": "100.00",
+      "yes_bid_size_fp": "98.69",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.3300",
-      "volume_fp": "131.00",
+      "last_price_dollars": "0.2500",
+      "volume_fp": "132.31",
       "close_time": "2027-04-27T21:30:00Z",
       "rules_primary": "If Hiring is said by any Meta Platforms, Inc. representative (including the operator of the call) during the next Meta Platforms, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
