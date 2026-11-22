@@ -31,9 +31,9 @@
       "no_bid_dollars": "0.5700",
       "no_ask_dollars": "0.6600",
       "yes_bid_size_fp": "117.97",
-      "yes_ask_size_fp": "25.00",
-      "last_price_dollars": "0.4200",
-      "volume_fp": "326.70",
+      "yes_ask_size_fp": "24.50",
+      "last_price_dollars": "0.4300",
+      "volume_fp": "327.20",
       "close_time": "2027-05-25T15:00:00Z",
       "rules_primary": "If AMEX / American Express is said by any Clear Secure Inc. representative (including the operator of the call) during the next Clear Secure Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
