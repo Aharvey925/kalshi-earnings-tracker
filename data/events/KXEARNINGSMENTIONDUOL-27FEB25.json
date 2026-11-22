@@ -116,9 +116,9 @@
       "no_bid_dollars": "0.4500",
       "no_ask_dollars": "0.5500",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "100.00",
+      "yes_ask_size_fp": "97.00",
       "last_price_dollars": "0.5500",
-      "volume_fp": "60.38",
+      "volume_fp": "63.38",
       "close_time": "2027-05-26T15:00:00Z",
       "rules_primary": "If China / Chinese is said by any Duolingo, Inc. representative (including the operator of the call) during the next Duolingo, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

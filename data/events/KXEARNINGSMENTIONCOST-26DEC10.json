@@ -31,9 +31,9 @@
       "no_bid_dollars": "0.4200",
       "no_ask_dollars": "0.5100",
       "yes_bid_size_fp": "98.11",
-      "yes_ask_size_fp": "17.69",
+      "yes_ask_size_fp": "12.67",
       "last_price_dollars": "0.5800",
-      "volume_fp": "201.29",
+      "volume_fp": "206.31",
       "close_time": "2026-12-24T15:00:00Z",
       "rules_primary": "If Buyback / Buy Back is said by any Costco representative (including the operator of the call) during the next Costco live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
