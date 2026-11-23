@@ -82,9 +82,9 @@
       "no_bid_dollars": "0.7000",
       "no_ask_dollars": "0.7600",
       "yes_bid_size_fp": "312.00",
-      "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.0000",
-      "volume_fp": "0.00",
+      "yes_ask_size_fp": "97.88",
+      "last_price_dollars": "0.3000",
+      "volume_fp": "2.12",
       "close_time": "2027-05-05T15:00:00Z",
       "rules_primary": "If MyTEAM is said by any Take-Two Interactive Software, Inc. representative (including the operator of the call) during the next Take-Two Interactive Software, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

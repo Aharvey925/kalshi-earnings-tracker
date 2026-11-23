@@ -167,9 +167,9 @@
       "no_bid_dollars": "0.5000",
       "no_ask_dollars": "0.5900",
       "yes_bid_size_fp": "94.42",
-      "yes_ask_size_fp": "23.07",
+      "yes_ask_size_fp": "21.14",
       "last_price_dollars": "0.5000",
-      "volume_fp": "340.61",
+      "volume_fp": "342.54",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Pricing is said by any AutoZone representative (including the operator of the call) during the next AutoZone live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
