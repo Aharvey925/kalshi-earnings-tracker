@@ -149,10 +149,10 @@
       "yes_ask_dollars": "0.9800",
       "no_bid_dollars": "0.0200",
       "no_ask_dollars": "0.0300",
-      "yes_bid_size_fp": "301.41",
+      "yes_bid_size_fp": "270.20",
       "yes_ask_size_fp": "150.00",
-      "last_price_dollars": "0.9800",
-      "volume_fp": "5460.53",
+      "last_price_dollars": "0.9700",
+      "volume_fp": "5491.74",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Mega-Hub / Mega Hub is said by any AutoZone representative (including the operator of the call) during the next AutoZone live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

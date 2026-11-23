@@ -167,9 +167,9 @@
       "no_bid_dollars": "0.3700",
       "no_ask_dollars": "0.4700",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "98.46",
+      "yes_ask_size_fp": "97.69",
       "last_price_dollars": "0.6300",
-      "volume_fp": "11.98",
+      "volume_fp": "12.75",
       "close_time": "2027-04-14T12:30:00Z",
       "rules_primary": "If Inflation / Inflationary is said by any BlackRock representative (including the operator of the call) during the next BlackRock live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
