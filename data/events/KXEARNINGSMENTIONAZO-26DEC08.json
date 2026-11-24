@@ -30,10 +30,10 @@
       "yes_ask_dollars": "0.9500",
       "no_bid_dollars": "0.0500",
       "no_ask_dollars": "0.1000",
-      "yes_bid_size_fp": "103.85",
+      "yes_bid_size_fp": "103.76",
       "yes_ask_size_fp": "1.24",
-      "last_price_dollars": "0.9100",
-      "volume_fp": "5684.65",
+      "last_price_dollars": "0.9000",
+      "volume_fp": "5684.74",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Brazil is said by any AutoZone representative (including the operator of the call) during the next AutoZone live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
