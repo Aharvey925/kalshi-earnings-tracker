@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-24T14:24:02.766030+00:00",
+  "updated": "2026-11-24T15:38:47.410285+00:00",
   "series_count": 216,
-  "event_count": 135,
-  "market_count": 1915,
+  "event_count": 133,
+  "market_count": 1890,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -69,12 +69,6 @@
       "company": "What will Arista Networks say during their next earnings call?",
       "market_count": 15,
       "file": "data/events/KXEARNINGSMENTIONANET-27FEB11.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONANF-26NOV24",
-      "company": "What will Abercrombie & Fitch Company say during their next earnings call?",
-      "market_count": 14,
-      "file": "data/events/KXEARNINGSMENTIONANF-26NOV24.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONAPH-27JAN27",
@@ -627,12 +621,6 @@
       "company": "What will Charles Schwab say during their next earnings call?",
       "market_count": 16,
       "file": "data/events/KXEARNINGSMENTIONSCHW-27JAN20.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONSJM-26NOV24",
-      "company": "What will JM Smucker say during their next earnings call?",
-      "market_count": 11,
-      "file": "data/events/KXEARNINGSMENTIONSJM-26NOV24.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONSNDK-27JAN28",
