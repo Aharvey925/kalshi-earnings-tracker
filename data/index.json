@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-24T12:37:12.354847+00:00",
+  "updated": "2026-11-24T14:24:02.766030+00:00",
   "series_count": 216,
-  "event_count": 137,
-  "market_count": 1936,
+  "event_count": 135,
+  "market_count": 1915,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -281,12 +281,6 @@
       "file": "data/events/KXEARNINGSMENTIONDHR-27JAN27.json"
     },
     {
-      "event_ticker": "KXEARNINGSMENTIONDKS-26NOV24",
-      "company": "What will Dick\u2019s Sporting Goods, Inc. say during their next earnings call?",
-      "market_count": 10,
-      "file": "data/events/KXEARNINGSMENTIONDKS-26NOV24.json"
-    },
-    {
       "event_ticker": "KXEARNINGSMENTIONDOCUSIGN-26DEC03",
       "company": "What will DocuSign say during their next earnings call?",
       "market_count": 10,
@@ -483,12 +477,6 @@
       "company": "What will Moody's Corporation say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONMCO-27FEB17.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONMDT-26NOV17",
-      "company": "What will Medtronic say during their next earnings call?",
-      "market_count": 11,
-      "file": "data/events/KXEARNINGSMENTIONMDT-26NOV17.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONMETA-27JAN27",
