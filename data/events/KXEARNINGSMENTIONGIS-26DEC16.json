@@ -48,9 +48,9 @@
       "no_bid_dollars": "0.6900",
       "no_ask_dollars": "0.7600",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "12.18",
-      "last_price_dollars": "0.2700",
-      "volume_fp": "72.18",
+      "yes_ask_size_fp": "9.11",
+      "last_price_dollars": "0.3100",
+      "volume_fp": "75.25",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Certified Color is said by any General Mills representative (including the operator of the call) during the next General Mills live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
