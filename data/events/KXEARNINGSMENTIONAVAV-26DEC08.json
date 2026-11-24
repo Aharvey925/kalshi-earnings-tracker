@@ -231,13 +231,13 @@
       "subtitle": null,
       "status": "active",
       "yes_bid_dollars": "0.4900",
-      "yes_ask_dollars": "0.5700",
-      "no_bid_dollars": "0.4300",
+      "yes_ask_dollars": "0.5800",
+      "no_bid_dollars": "0.4200",
       "no_ask_dollars": "0.5100",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.5500",
-      "volume_fp": "386.41",
+      "last_price_dollars": "0.5700",
+      "volume_fp": "394.92",
       "close_time": "2027-03-22T15:00:00Z",
       "rules_primary": "If Taiwan is said by any AeroVironment representative (including the operator of the call) during the next AeroVironment live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }

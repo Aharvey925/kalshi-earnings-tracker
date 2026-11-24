@@ -218,9 +218,9 @@
       "no_bid_dollars": "0.5100",
       "no_ask_dollars": "0.5900",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "23.01",
+      "yes_ask_size_fp": "22.03",
       "last_price_dollars": "0.4900",
-      "volume_fp": "356.11",
+      "volume_fp": "357.09",
       "close_time": "2027-03-31T14:00:00Z",
       "rules_primary": "If Tariff is said by any General Mills representative (including the operator of the call) during the next General Mills live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
