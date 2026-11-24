@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-24T15:38:47.410285+00:00",
+  "updated": "2026-11-24T17:07:38.887143+00:00",
   "series_count": 216,
-  "event_count": 133,
-  "market_count": 1890,
+  "event_count": 139,
+  "market_count": 1978,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -41,16 +41,16 @@
       "file": "data/events/KXEARNINGSMENTIONADBE-26DEC09.json"
     },
     {
-      "event_ticker": "KXEARNINGSMENTIONADI-26NOV24",
-      "company": "What will Analog Devices say during their next earnings call?",
-      "market_count": 13,
-      "file": "data/events/KXEARNINGSMENTIONADI-26NOV24.json"
-    },
-    {
       "event_ticker": "KXEARNINGSMENTIONALK-27JAN22",
       "company": "What will Alaska Air Group, Inc. say during their next earnings call?",
       "market_count": 12,
       "file": "data/events/KXEARNINGSMENTIONALK-27JAN22.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONAMAT-27FEB18",
+      "company": "What will Applied Materials, Inc. say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONAMAT-27FEB18.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONAMD-27FEB02",
@@ -191,6 +191,12 @@
       "file": "data/events/KXEARNINGSMENTIONCBRL-26DEC08.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONCBRS-27FEB12",
+      "company": "What will Cerebras Systems Inc. say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONCBRS-27FEB12.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONCCL-26DEC18",
       "company": "What will Carnival Corporation say during their next earnings call?",
       "market_count": 14,
@@ -275,6 +281,12 @@
       "file": "data/events/KXEARNINGSMENTIONDHR-27JAN27.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONDIS-27FEB10",
+      "company": "What will The Walt Disney Company say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONDIS-27FEB10.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONDOCUSIGN-26DEC03",
       "company": "What will DocuSign say during their next earnings call?",
       "market_count": 10,
@@ -297,6 +309,12 @@
       "company": "What will Duolingo, Inc. say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONDUOL-27FEB25.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONETOR-27FEB16",
+      "company": "What will eToro Group Ltd. say during their next earnings call?",
+      "market_count": 14,
+      "file": "data/events/KXEARNINGSMENTIONETOR-27FEB16.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONGE-27JAN21",
@@ -437,6 +455,12 @@
       "file": "data/events/KXEARNINGSMENTIONLMT-27JAN28.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONLOW-27FEB24",
+      "company": "What will Lowe's Companies, Inc. say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONLOW-27FEB24.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONLRCX-27JAN27",
       "company": "What will Lam Research say during their next earnings call?",
       "market_count": 13,
@@ -569,6 +593,12 @@
       "file": "data/events/KXEARNINGSMENTIONPFE-27FEB02.json"
     },
     {
+      "event_ticker": "KXEARNINGSMENTIONPG-27JAN22",
+      "company": "What will The Procter & Gamble Company say during their next earnings call?",
+      "market_count": 16,
+      "file": "data/events/KXEARNINGSMENTIONPG-27JAN22.json"
+    },
+    {
       "event_ticker": "KXEARNINGSMENTIONPGR-27MAR02",
       "company": "What will The Progressive Corporation say during their next earnings call?",
       "market_count": 12,
@@ -627,6 +657,12 @@
       "company": "What will Sandisk say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONSNDK-27JAN28.json"
+    },
+    {
+      "event_ticker": "KXEARNINGSMENTIONSNOW-26DEC02",
+      "company": "What will Snowflake say during their next earnings call?",
+      "market_count": 13,
+      "file": "data/events/KXEARNINGSMENTIONSNOW-26DEC02.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONSPCX-27JAN26",
