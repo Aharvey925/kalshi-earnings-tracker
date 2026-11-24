@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-24T01:09:56.966951+00:00",
+  "updated": "2026-11-24T02:36:42.133019+00:00",
   "series_count": 216,
-  "event_count": 139,
-  "market_count": 1961,
+  "event_count": 137,
+  "market_count": 1936,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -369,12 +369,6 @@
       "company": "What will Robinhood Markets, Inc. say during their next earnings call?",
       "market_count": 16,
       "file": "data/events/KXEARNINGSMENTIONHOOD-27FEB09.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONHPE-26NOV23",
-      "company": "What will Hewlett Packard Enterprise say during their next earnings call?",
-      "market_count": 14,
-      "file": "data/events/KXEARNINGSMENTIONHPE-26NOV23.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONIBM-27JAN27",
@@ -825,12 +819,6 @@
       "company": "What will Zeta Global Holdings Corp. say during their next earnings call?",
       "market_count": 13,
       "file": "data/events/KXEARNINGSMENTIONZETA-27FEB23.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONZM-26NOV23",
-      "company": "What will Zoom Communications, Inc. say during their next earnings call?",
-      "market_count": 11,
-      "file": "data/events/KXEARNINGSMENTIONZM-26NOV23.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONZS-26NOV24",
