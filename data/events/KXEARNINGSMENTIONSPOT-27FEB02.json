@@ -132,10 +132,10 @@
       "yes_ask_dollars": "0.7400",
       "no_bid_dollars": "0.2600",
       "no_ask_dollars": "0.3600",
-      "yes_bid_size_fp": "100.00",
+      "yes_bid_size_fp": "97.35",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.0000",
-      "volume_fp": "0.00",
+      "last_price_dollars": "0.6400",
+      "volume_fp": "2.65",
       "close_time": "2027-05-03T13:00:00Z",
       "rules_primary": "If Headwind is said by any Spotify Technology S.A. representative (including the operator of the call) during the next Spotify Technology S.A. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
