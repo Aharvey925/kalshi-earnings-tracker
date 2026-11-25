@@ -47,10 +47,10 @@
       "yes_ask_dollars": "0.6500",
       "no_bid_dollars": "0.3500",
       "no_ask_dollars": "0.4000",
-      "yes_bid_size_fp": "5.00",
-      "yes_ask_size_fp": "28.50",
-      "last_price_dollars": "0.6500",
-      "volume_fp": "494.85",
+      "yes_bid_size_fp": "0.95",
+      "yes_ask_size_fp": "22.95",
+      "last_price_dollars": "0.6000",
+      "volume_fp": "504.45",
       "close_time": "2027-03-02T15:00:00Z",
       "rules_primary": "If Ask Macy's is said by any Macy's representative (including the operator of the call) during the next Macy's live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
@@ -217,10 +217,10 @@
       "yes_ask_dollars": "0.5600",
       "no_bid_dollars": "0.4400",
       "no_ask_dollars": "0.5300",
-      "yes_bid_size_fp": "94.52",
+      "yes_bid_size_fp": "94.40",
       "yes_ask_size_fp": "23.00",
       "last_price_dollars": "0.4700",
-      "volume_fp": "497.65",
+      "volume_fp": "497.77",
       "close_time": "2027-03-02T15:00:00Z",
       "rules_primary": "If Reimagined (3+ times) is said by any Macy's representative (including the operator of the call) during the next Macy's live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
