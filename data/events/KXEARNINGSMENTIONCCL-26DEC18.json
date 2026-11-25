@@ -150,9 +150,9 @@
       "no_bid_dollars": "0.8600",
       "no_ask_dollars": "0.9200",
       "yes_bid_size_fp": "324.00",
-      "yes_ask_size_fp": "15.53",
+      "yes_ask_size_fp": "21.53",
       "last_price_dollars": "0.1400",
-      "volume_fp": "1109.50",
+      "volume_fp": "1119.50",
       "close_time": "2027-04-01T15:00:00Z",
       "rules_primary": "If Oil is said by any Carnival Corporation representative (including the operator of the call) during the next Carnival Corporation live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
