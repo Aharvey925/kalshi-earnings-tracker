@@ -133,9 +133,9 @@
       "no_bid_dollars": "0.6100",
       "no_ask_dollars": "0.6900",
       "yes_bid_size_fp": "120.00",
-      "yes_ask_size_fp": "11.76",
+      "yes_ask_size_fp": "11.52",
       "last_price_dollars": "0.3900",
-      "volume_fp": "345.88",
+      "volume_fp": "346.12",
       "close_time": "2027-03-10T21:30:00Z",
       "rules_primary": "If Membership is said by any Lululemon representative (including the operator of the call) during the next Lululemon live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
