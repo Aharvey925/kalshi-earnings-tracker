@@ -64,10 +64,10 @@
       "yes_ask_dollars": "0.4200",
       "no_bid_dollars": "0.5800",
       "no_ask_dollars": "0.6700",
-      "yes_bid_size_fp": "200.00",
+      "yes_bid_size_fp": "195.00",
       "yes_ask_size_fp": "104.00",
-      "last_price_dollars": "0.3500",
-      "volume_fp": "111.00",
+      "last_price_dollars": "0.3300",
+      "volume_fp": "116.00",
       "close_time": "2026-12-31T15:00:00Z",
       "rules_primary": "If Coretura is said by any BlackBerry representative (including the operator of the call) during the next BlackBerry live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
