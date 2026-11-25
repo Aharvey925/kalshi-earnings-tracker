@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-25T14:44:17.813386+00:00",
+  "updated": "2026-11-25T16:11:16.502555+00:00",
   "series_count": 216,
-  "event_count": 137,
-  "market_count": 1947,
+  "event_count": 136,
+  "market_count": 1933,
   "events": [
     {
       "event_ticker": "KXEARNINGSMENTIONAAL-27JAN28",
@@ -261,12 +261,6 @@
       "company": "What will Delta Air Lines, Inc. say during their next earnings call?",
       "market_count": 15,
       "file": "data/events/KXEARNINGSMENTIONDAL-27JAN13.json"
-    },
-    {
-      "event_ticker": "KXEARNINGSMENTIONDE-26NOV25",
-      "company": "What will Deere & Company say during their next earnings call?",
-      "market_count": 14,
-      "file": "data/events/KXEARNINGSMENTIONDE-26NOV25.json"
     },
     {
       "event_ticker": "KXEARNINGSMENTIONDHR-27JAN27",
