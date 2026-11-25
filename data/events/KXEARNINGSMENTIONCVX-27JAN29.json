@@ -115,10 +115,10 @@
       "yes_ask_dollars": "0.5300",
       "no_bid_dollars": "0.4700",
       "no_ask_dollars": "0.5600",
-      "yes_bid_size_fp": "100.00",
+      "yes_bid_size_fp": "96.35",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.5300",
-      "volume_fp": "5.51",
+      "last_price_dollars": "0.4400",
+      "volume_fp": "9.16",
       "close_time": "2027-04-29T16:00:00Z",
       "rules_primary": "If Hess (3+ times) is said by any Chevron representative (including the operator of the call) during the next Chevron live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
