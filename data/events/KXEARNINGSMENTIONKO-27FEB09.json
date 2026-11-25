@@ -202,8 +202,8 @@
       "no_ask_dollars": "0.5900",
       "yes_bid_size_fp": "100.00",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.5000",
-      "volume_fp": "22.75",
+      "last_price_dollars": "0.5100",
+      "volume_fp": "23.12",
       "close_time": "2027-05-10T13:30:00Z",
       "rules_primary": "If Topo Chico is said by any The Coca-Cola Company representative (including the operator of the call) during the next The Coca-Cola Company live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
