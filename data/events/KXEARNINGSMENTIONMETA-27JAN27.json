@@ -167,9 +167,9 @@
       "no_bid_dollars": "0.6100",
       "no_ask_dollars": "0.7000",
       "yes_bid_size_fp": "15.00",
-      "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.3800",
-      "volume_fp": "99.45",
+      "yes_ask_size_fp": "97.55",
+      "last_price_dollars": "0.3900",
+      "volume_fp": "101.90",
       "close_time": "2027-04-27T21:30:00Z",
       "rules_primary": "If Ray-Ban is said by any Meta Platforms, Inc. representative (including the operator of the call) during the next Meta Platforms, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

@@ -81,10 +81,10 @@
       "yes_ask_dollars": "0.3900",
       "no_bid_dollars": "0.6100",
       "no_ask_dollars": "0.6800",
-      "yes_bid_size_fp": "104.00",
+      "yes_bid_size_fp": "1.50",
       "yes_ask_size_fp": "24.00",
-      "last_price_dollars": "0.3300",
-      "volume_fp": "1298.06",
+      "last_price_dollars": "0.3200",
+      "volume_fp": "1299.49",
       "close_time": "2027-05-25T22:00:00Z",
       "rules_primary": "If Domestic is said by any NVIDIA Corporation representative (including the operator of the call) during the next NVIDIA Corporation live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },

@@ -252,9 +252,9 @@
       "no_bid_dollars": "0.4400",
       "no_ask_dollars": "0.5400",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.5500",
-      "volume_fp": "103.00",
+      "yes_ask_size_fp": "98.27",
+      "last_price_dollars": "0.5600",
+      "volume_fp": "104.73",
       "close_time": "2027-05-18T15:00:00Z",
       "rules_primary": "If Wing Pass is said by any Wingstop Inc. representative (including the operator of the call) during the next Wingstop Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
