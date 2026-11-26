@@ -81,7 +81,7 @@
       "yes_ask_dollars": "0.8800",
       "no_bid_dollars": "0.1200",
       "no_ask_dollars": "0.1800",
-      "yes_bid_size_fp": "1.00",
+      "yes_bid_size_fp": "2.00",
       "yes_ask_size_fp": "29.00",
       "last_price_dollars": "0.8900",
       "volume_fp": "2253.36",
