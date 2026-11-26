@@ -115,10 +115,10 @@
       "yes_ask_dollars": "0.6400",
       "no_bid_dollars": "0.3600",
       "no_ask_dollars": "0.4300",
-      "yes_bid_size_fp": "95.00",
+      "yes_bid_size_fp": "81.03",
       "yes_ask_size_fp": "26.00",
-      "last_price_dollars": "0.6400",
-      "volume_fp": "294.26",
+      "last_price_dollars": "0.5700",
+      "volume_fp": "308.23",
       "close_time": "2027-05-19T15:00:00Z",
       "rules_primary": "If EPIC Center is said by any Applied Materials, Inc. representative (including the operator of the call) during the next Applied Materials, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
