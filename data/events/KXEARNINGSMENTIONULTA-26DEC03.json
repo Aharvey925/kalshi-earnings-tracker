@@ -234,10 +234,10 @@
       "yes_ask_dollars": "0.2500",
       "no_bid_dollars": "0.7500",
       "no_ask_dollars": "0.8300",
-      "yes_bid_size_fp": "100.00",
+      "yes_bid_size_fp": "99.61",
       "yes_ask_size_fp": "100.00",
-      "last_price_dollars": "0.2300",
-      "volume_fp": "146.02",
+      "last_price_dollars": "0.1700",
+      "volume_fp": "146.41",
       "close_time": "2027-03-03T15:00:00Z",
       "rules_primary": "If Tariff is said by any Ulta Beauty, Inc. representative (including the operator of the call) during the next Ulta Beauty, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
