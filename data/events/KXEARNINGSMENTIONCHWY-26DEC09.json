@@ -82,9 +82,9 @@
       "no_bid_dollars": "0.3700",
       "no_ask_dollars": "0.4600",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "24.00",
+      "yes_ask_size_fp": "18.27",
       "last_price_dollars": "0.6300",
-      "volume_fp": "275.07",
+      "volume_fp": "282.80",
       "close_time": "2027-03-23T15:00:00Z",
       "rules_primary": "If Loyalty is said by any Chewy representative (including the operator of the call) during the next Chewy live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
