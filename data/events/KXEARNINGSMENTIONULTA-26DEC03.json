@@ -31,9 +31,9 @@
       "no_bid_dollars": "0.3200",
       "no_ask_dollars": "0.4000",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "29.00",
+      "yes_ask_size_fp": "17.62",
       "last_price_dollars": "0.6800",
-      "volume_fp": "401.09",
+      "volume_fp": "415.47",
       "close_time": "2027-03-03T15:00:00Z",
       "rules_primary": "If Bath & Body Works is said by any Ulta Beauty, Inc. representative (including the operator of the call) during the next Ulta Beauty, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
