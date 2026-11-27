@@ -13,10 +13,10 @@
       "yes_ask_dollars": "0.5000",
       "no_bid_dollars": "0.5000",
       "no_ask_dollars": "0.5700",
-      "yes_bid_size_fp": "100.00",
+      "yes_bid_size_fp": "90.34",
       "yes_ask_size_fp": "25.00",
-      "last_price_dollars": "0.4500",
-      "volume_fp": "322.56",
+      "last_price_dollars": "0.4300",
+      "volume_fp": "332.22",
       "close_time": "2027-03-22T15:00:00Z",
       "rules_primary": "If AV Halo is said by any AeroVironment representative (including the operator of the call) during the next AeroVironment live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
