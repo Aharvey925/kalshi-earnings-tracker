@@ -217,10 +217,10 @@
       "yes_ask_dollars": "0.5000",
       "no_bid_dollars": "0.5000",
       "no_ask_dollars": "0.5200",
-      "yes_bid_size_fp": "62.00",
+      "yes_bid_size_fp": "55.00",
       "yes_ask_size_fp": "125.00",
-      "last_price_dollars": "0.5300",
-      "volume_fp": "282.84",
+      "last_price_dollars": "0.4800",
+      "volume_fp": "289.84",
       "close_time": "2027-04-26T15:00:00Z",
       "rules_primary": "If Sail Biomedicines is said by any Johnson & Johnson representative (including the operator of the call) during the next Johnson & Johnson live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
