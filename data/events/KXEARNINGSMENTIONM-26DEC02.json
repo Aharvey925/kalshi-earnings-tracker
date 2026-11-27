@@ -14,7 +14,7 @@
       "no_bid_dollars": "0.1300",
       "no_ask_dollars": "0.1400",
       "yes_bid_size_fp": "1.43",
-      "yes_ask_size_fp": "210.26",
+      "yes_ask_size_fp": "220.26",
       "last_price_dollars": "0.8700",
       "volume_fp": "429.81",
       "close_time": "2027-03-02T15:00:00Z",
@@ -218,9 +218,9 @@
       "no_bid_dollars": "0.4900",
       "no_ask_dollars": "0.5400",
       "yes_bid_size_fp": "3.00",
-      "yes_ask_size_fp": "26.00",
-      "last_price_dollars": "0.5000",
-      "volume_fp": "682.10",
+      "yes_ask_size_fp": "16.53",
+      "last_price_dollars": "0.5100",
+      "volume_fp": "691.57",
       "close_time": "2027-03-02T15:00:00Z",
       "rules_primary": "If Reimagined (3+ times) is said by any Macy's representative (including the operator of the call) during the next Macy's live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     }
