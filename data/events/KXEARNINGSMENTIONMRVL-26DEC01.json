@@ -268,10 +268,10 @@
       "yes_ask_dollars": "0.4100",
       "no_bid_dollars": "0.5900",
       "no_ask_dollars": "0.6400",
-      "yes_bid_size_fp": "100.00",
+      "yes_bid_size_fp": "95.73",
       "yes_ask_size_fp": "1.00",
-      "last_price_dollars": "0.4300",
-      "volume_fp": "112.70",
+      "last_price_dollars": "0.3600",
+      "volume_fp": "116.97",
       "close_time": "2027-03-01T21:30:00Z",
       "rules_primary": "If Warrant (3+ times) is said by any Marvell Technology, Inc. representative (including the operator of the call) during the next Marvell Technology, Inc. live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
