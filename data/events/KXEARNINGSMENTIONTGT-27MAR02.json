@@ -218,9 +218,9 @@
       "no_bid_dollars": "0.0900",
       "no_ask_dollars": "0.1700",
       "yes_bid_size_fp": "100.00",
-      "yes_ask_size_fp": "20.00",
-      "last_price_dollars": "0.0000",
-      "volume_fp": "0.00",
+      "yes_ask_size_fp": "28.91",
+      "last_price_dollars": "0.9100",
+      "volume_fp": "1.09",
       "close_time": "2027-05-31T13:00:00Z",
       "rules_primary": "If Revenue is said by any Target Corporation representative (including the operator of the call) during the next Target Corporation live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
