@@ -65,9 +65,9 @@
       "no_bid_dollars": "0.1900",
       "no_ask_dollars": "0.2700",
       "yes_bid_size_fp": "95.00",
-      "yes_ask_size_fp": "209.00",
-      "last_price_dollars": "0.7300",
-      "volume_fp": "265.85",
+      "yes_ask_size_fp": "246.46",
+      "last_price_dollars": "0.8100",
+      "volume_fp": "302.39",
       "close_time": "2027-03-03T22:00:00Z",
       "rules_primary": "If Cartographer is said by any UiPath representative (including the operator of the call) during the next UiPath live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
