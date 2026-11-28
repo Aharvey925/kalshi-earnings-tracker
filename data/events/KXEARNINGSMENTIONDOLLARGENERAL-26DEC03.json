@@ -14,9 +14,9 @@
       "no_bid_dollars": "0.6500",
       "no_ask_dollars": "0.7200",
       "yes_bid_size_fp": "95.40",
-      "yes_ask_size_fp": "17.54",
-      "last_price_dollars": "0.3500",
-      "volume_fp": "1010.45",
+      "yes_ask_size_fp": "29.00",
+      "last_price_dollars": "0.3600",
+      "volume_fp": "1090.68",
       "close_time": "2027-03-03T14:00:00Z",
       "rules_primary": "If Consumer Spending is said by any Dollar General representative (including the operator of the call) during the next Dollar General live earnings call or official broadcast (including the Q+A), then the market resolves to Yes."
     },
